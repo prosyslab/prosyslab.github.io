@@ -1,0 +1,39 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@import "bootstrap/bootstrap.scss";
+
+// This is for footer
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+ margin-bottom: 46px;
+}
+
+.header-container {
+  color: white;
+  background-image: linear-gradient(rgba(50, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../img/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 30%;
+}
+
+.page-content {
+  padding-bottom: 20px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-top: 10px;
+  background-color: $gray-200;
+  color: $gray-700;
+}

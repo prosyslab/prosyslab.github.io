@@ -1,0 +1,27 @@
+---
+layout: default
+sectionid: people
+title: ProsysLab &middot; People
+---
+
+<div class="container" style="padding-top:20px;">
+  <div class="row">
+    <div class="col-md-4">
+      <h4 class="header-light regular-pad">Professor</h4>
+      {% for prof in site.data.people.professor %}
+        <p class="main-text">{{ prof.name }} ({{ prof.name-korean }})
+          <a href={{ prof.homepage }}><i class="fas fa-home" style="color:#1B4F72"></i></a>
+          <a href={{ prof.email }}><i class="fas fa-envelope" style="color:#1B4F72"></i></a>
+        </p>
+      {% endfor %}
+      <br>
+      <h4>Students</h4>
+      {% for ms in site.data.people.master %}
+        <p class="main-text">{{ ms.name }} ({{ ms.name-korean }})
+          <a href={{ ms.homepage }}><i class="fas fa-home"style="color:#1B4F72"></i></a>
+          <a href={{ ms.email }}><i class="fas fa-envelope"style="color:#1B4F72"></i></a>
+        </p>
+      {% endfor %}
+    </div>
+  </div>
+</div>

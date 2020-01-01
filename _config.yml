@@ -1,0 +1,21 @@
+# Site settings
+title: ProsysLab
+full-title: Programming Systems Laboratory @ KAIST
+email: kihong.heo@gmail.com
+description:
+lang: en-US
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://prosyslab.github.io # the base hostname & protocol for your site
+git_address: https://github.com/prosyslab
+git_edit_address: https://github.com/prosyslab/prosyslab.github.io
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
