@@ -4,121 +4,50 @@ sectionid: publications
 title: ProsysLab &middot; Publications
 ---
 <div class="container" style="padding-top:20px;">
-  <h4> Conference Papers </h4>
-  <ol>
-    {% for pub in site.data.publications %}
-      {% if pub.type == 'conference' %}
-        <li>{{pub.title}}<br>
-          {% for author in pub.author %}
-            {% if forloop.last %}
-              and {% if bold == true %}<b>{% endif %} {{ author }}{% if bold == true %}</b>{% endif %}
-            {% else %}
-              {% if bold == true %}<b>{% endif %} {{ author }}{% if bold == true %}</b>{% endif %},
-            {% endif %}
-          {% endfor %}
-          {% if pub.award != nil %}
-            <br>&#127942; <b>{{pub.award}}</b>
-          {% endif %}
-          <br>
-          {{ pub.venue }}, {{ pub.year }}
-          <br>
-          {% if pub.paper != nil %}
-            [<a href="papers/{{ pub.paper }}">paper</a>]
-          {% endif %}
-          {% if pub.full != nil %}
-            [<a href="papers/{{ pub.full }}">full-version</a>]
-          {% endif %}
-          {% if pub.bib != nil %}
-            [<a href="{{ pub.bib }}">bib</a>]
-          {% endif %}
-          {% if pub.slides != nil %}
-            [<a href="slides/{{ pub.slides }}">slides</a>]
-          {% endif %}
-          {% if pub.video != nil %}
-            [<a href="{{ pub.video }}">video</a>]
-          {% endif %}
-          {% if pub.code != nil %}
-            [<a href="{{ pub.code }}">code</a>]
-          {% endif %}
-        </li>
-        <br>
+  {% assign year_printed = 0 %}
+  {% assign list_opened = false %}
+
+  {% for pub in site.data.publications %}
+    {% if year_printed != pub.year %}
+      {% if list_opened == true %}
+        </ul>
       {% endif %}
-    {% endfor %}
-  </ol>
-  <h4> Journal Papers </h4>
-  <ol>
-    {% for pub in site.data.publications %}
-      {% if pub.type == 'journal' %}
-        <li>{{pub.title}}<br>
-          {% for author in pub.author %}
-            {% if forloop.last %}
-              and {% if bold == true %}<b>{% endif %} {{ author }}{% if bold == true %}</b>{% endif %}
-            {% else %}
-              {% if bold == true %}<b>{% endif %} {{ author }}{% if bold == true %}</b>{% endif %},
-            {% endif %}
-          {% endfor %}
-          <br>
-          {{ pub.venue }}, {{ pub.year }}
-          <br>
-          {% if pub.paper != nil %}
-            [<a href="papers/{{ pub.paper }}">paper</a>]
+      <h3> {{ pub.year }} </h3>
+      <ul>
+      {% assign list_opened = true %}
+      {% assign year_printed = pub.year %}
+    {% endif %}
+      <li>{{pub.title}}<br>
+        {% for author in pub.author %}
+          {% if forloop.last %}
+            and {{ author }}
+          {% else %}
+            {{ author }},
           {% endif %}
-          {% if pub.full != nil %}
-            [<a href="papers/{{ pub.full }}">full-version</a>]
-          {% endif %}
-          {% if pub.bib != nil %}
-            [<a href="{{ pub.bib }}">bib</a>]
-          {% endif %}
-          {% if pub.slides != nil %}
-            [<a href="slides/{{ pub.slides }}">slides</a>]
-          {% endif %}
-          {% if pub.video != nil %}
-            [<a href="{{ pub.video }}">video</a>]
-          {% endif %}
-          {% if pub.code != nil %}
-            [<a href="{{ pub.code }}">code</a>]
-          {% endif %}
-        </li>
+        {% endfor %}
+        {% if pub.award != nil %}
+          <br>&#127942; <b>{{pub.award}}</b>
+        {% endif %}
         <br>
-      {% endif %}
-    {% endfor %}
-  </ol>
-  <h4> Workshop Papers </h4>
-  <ol>
-    {% for pub in site.data.publications %}
-      {% if pub.type == 'workshop' %}
-        <li>{{pub.title}}<br>
-          {% for author in pub.author %}
-            {% if forloop.last %}
-              and {% if bold == true %}<b>{% endif %} {{ author }}{% if bold == true %}</b>{% endif %}
-            {% else %}
-              {% if bold == true %}<b>{% endif %} {{ author }}{% if bold == true %}</b>{% endif %},
-            {% endif %}
-          {% endfor %}
-          <br>
-          {{ pub.venue }}, {{ pub.year }}
-          <br>
-          {% if pub.paper != nil %}
-            [<a href="papers/{{ pub.paper }}">paper</a>]
-          {% endif %}
-          {% if pub.full != nil %}
-            [<a href="papers/{{ pub.full }}">full-version</a>]
-          {% endif %}
-          {% if pub.bib != nil %}
-            [<a href="{{ pub.bib }}">bib</a>]
-          {% endif %}
-          {% if pub.slides != nil %}
-            [<a href="slides/{{ pub.slides }}">slides</a>]
-          {% endif %}
-          {% if pub.video != nil %}
-            [<a href="{{ pub.video }}">video</a>]
-          {% endif %}
-          {% if pub.code != nil %}
-            [<a href="{{ pub.code }}">code</a>]
-          {% endif %}
-        </li>
+        {{ pub.venue }}, {{ pub.year }}
         <br>
-      {% endif %}
+        {% if pub.paper != nil %}
+          [<a href="papers/{{ pub.paper }}">paper</a>]
+        {% endif %}
+        {% if pub.full != nil %}
+          [<a href="papers/{{ pub.full }}">full-version</a>]
+        {% endif %}
+        {% if pub.slides != nil %}
+          [<a href="slides/{{ pub.slides }}">slides</a>]
+        {% endif %}
+        {% if pub.video != nil %}
+          [<a href="{{ pub.video }}">video</a>]
+        {% endif %}
+        {% if pub.code != nil %}
+          [<a href="{{ pub.code }}">code</a>]
+        {% endif %}
+      </li>
+      <br>
     {% endfor %}
   </ol>
 </div>
