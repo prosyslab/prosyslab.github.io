@@ -11,7 +11,7 @@ title: ProsysLab &middot; People
       {% for prof in site.data.people.professor %}
         <p class="main-text">{{ prof.name }} ({{ prof.name-korean }})
           <a href={{ prof.homepage }}><i class="fas fa-home" style="color:#1B4F72"></i></a>
-          <a href={{ prof.email }}><i class="fas fa-envelope" style="color:#1B4F72"></i></a>
+          <a href=mailto:{{ prof.email }}><i class="fas fa-envelope" style="color:#1B4F72"></i></a>
         </p>
       {% endfor %}
       <br>
@@ -19,7 +19,7 @@ title: ProsysLab &middot; People
       {% for ms in site.data.people.master %}
         <p class="main-text">{{ ms.name }} ({{ ms.name-korean }})
           <a href={{ ms.homepage }}><i class="fas fa-home"style="color:#1B4F72"></i></a>
-          <a href={{ ms.email }}><i class="fas fa-envelope"style="color:#1B4F72"></i></a>
+          <a href=mailto:{{ ms.email }}><i class="fas fa-envelope"style="color:#1B4F72"></i></a>
         </p>
       {% endfor %}
     </div>
