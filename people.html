@@ -22,6 +22,12 @@ title: ProsysLab &middot; People
           <a href=mailto:{{ ms.email }}><i class="fas fa-envelope"style="color:#1B4F72"></i></a>
         </p>
       {% endfor %}
+      {% for ms in site.data.people.undergrad %}
+        <p class="main-text">{{ ms.name }} ({{ ms.name-korean }})
+          <a href={{ ms.homepage }}><i class="fas fa-home"style="color:#1B4F72"></i></a>
+          <a href=mailto:{{ ms.email }}><i class="fas fa-envelope"style="color:#1B4F72"></i></a>
+        </p>
+      {% endfor %}
     </div>
   </div>
 </div>

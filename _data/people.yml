@@ -5,7 +5,15 @@ professor:
     email: kihong.heo@kaist.ac.kr
 
 master:
-  - name: Hyunsoo Shin
-    name-korean: 신현수
-    homepage: https://sites.google.com/view/hyunsooda
-    email: hyunsooda@kaist.ac.kr
+  - name: Hyunsu Kim
+    name-korean: 김현수
+    homepage: https://prosys.kaist.ac.kr
+    email: hyunsu.kim00@kaist.ac.kr
+
+undergrad:
+  - name: Hyewon Ryu
+    name-korean: 류혜원
+    homepage: https://prosys.kaist.ac.kr
+    email: un0211@kaist.ac.kr
+
+
