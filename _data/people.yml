@@ -1,19 +1,17 @@
 professor:
   - name: Kihong Heo
     name-korean: 허기홍
-    homepage: https://kihongheo.github.io
+    homepage: https://prosys.kaist.ac.kr/home/kihongheo
     email: kihong.heo@kaist.ac.kr
 
 master:
   - name: Hyunsu Kim
     name-korean: 김현수
-    homepage: https://hyunsukimsokcho.github.io/markdown-cv/  
+    homepage: https://prosys.kaist.ac.kr/home/hyunsukim
     email: hyunsu.kim00@kaist.ac.kr
 
 undergrad:
   - name: Hyewon Ryu
     name-korean: 류혜원
-    homepage: https://prosys.kaist.ac.kr
+    homepage: https://prosys.kaist.ac.kr/home/hyewonryu
     email: un0211@kaist.ac.kr
-
-
