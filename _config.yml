@@ -1,21 +1,57 @@
-# Site settings
+# Site Settings
 title: ProsysLab
 full-title: Programming Systems Laboratory @ KAIST
-email: kihong.heo@gmail.com
-description:
-lang: en-US
+email: prosys@kaist.ac.kr
+description: >
+  The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
+baseurl: ""
+url: "https://www.csrhymes.com"
+permalink: pretty
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://prosyslab.github.io # the base hostname & protocol for your site
-git_address: https://github.com/prosyslab
-git_edit_address: https://github.com/prosyslab/prosyslab.github.io
+paginate: 6
+paginate_path: "/blog/page:num"
 
-# Build settings
-markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
 
 exclude:
   - Gemfile
+  - clean-theme.gemspec
   - Gemfile.lock
-  - .idea/
-  - .gitignore
-  - README.md
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "C.S. Rhymes"
+      layout: post
+      image: /img/home.jpg
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
+collections:
+  authors:
+    output: true
