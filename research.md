@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-image: /img/home.jpg
+image: /img/research.jpg
 ---
 
 <div class="content">
