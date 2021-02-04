@@ -1,4 +1,10 @@
 <div class="buttons">
+    {% if page.homepage %}
+    <a href="{{ page.homepage }}" class="button is-dark" target="_blank">
+        <i class="fas fa-home"></i>
+    </a>
+    {% endif %}
+
     {% if page.facebook %}
     <a href="{{ page.facebook }}" class="button is-dark" target="_blank">
         <i class="fab fa-facebook-f"></i>

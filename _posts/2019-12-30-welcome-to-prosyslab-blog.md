@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to ProsysLab Blog!"
+title:  Welcome to Prosyslab Blog!
 date:   2019-12-31
 author: 허기홍
 ---
