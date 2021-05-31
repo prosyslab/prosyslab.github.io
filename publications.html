@@ -28,14 +28,17 @@ image: /img/home.jpg
   {% if pub.award != nil %}
     <br>&#127942; <b>{{pub.award}}</b>
   {% endif %}
+  {% if pub.misc != nil %}
+  <br><b>{{ pub.misc }}</b>
+  {% endif %}
   <br>
-  {{ pub.venue }}, {{ pub.year }}
+  <a href="{{ pub.venue_link }}">{{ pub.venue }}</a>, {{ pub.year }}
    <br>
   {% if pub.paper != nil %}
-  [<a href="{{ site.baseurl }}/papers/{{ pub.paper }}">paper</a>]
+  [<a href="{{ site.baseurl }}/publications/{{ pub.paper }}">paper</a>]
   {% endif %}
   {% if pub.full != nil %}
-    [<a href="papers/{{ pub.full }}">full-version</a>]
+    [<a href="{{ site.baseurl }}/publications/{{ pub.full }}">full-version</a>]
   {% endif %}
   {% if pub.slides != nil %}
     [<a href="slides/{{ pub.slides }}">slides</a>]
