@@ -20,6 +20,11 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/taeeunkim
     email: taeeun.kim@kaist.ac.kr
 
+  - name: Seungwan Kwon
+    name-korean: 권승완
+    homepage: https://prosys.kaist.ac.kr/home/seungwankwon
+    email: seungwan.kwon@kaist.ac.kr
+
 undergrad:
   - name: Hyewon Ryu
     name-korean: 류혜원
