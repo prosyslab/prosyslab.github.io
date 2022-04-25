@@ -1,0 +1,51 @@
+professor:
+  - name: Kihong Heo
+    name-korean: 허기홍
+    info: Assistant Professor
+    photo: kihong.jpg
+    homepage: https://prosys.kaist.ac.kr/home/kihongheo
+    email: kihong.heo@kaist.ac.kr
+
+master:
+  - name: Hyunsu Kim
+    name-korean: 김현수
+    photo: user.png
+    homepage: https://prosys.kaist.ac.kr/home/hyunsukim
+    email: hyunsu.kim00@kaist.ac.kr
+
+  - name: Wooseok Kang
+    name-korean: 강우석
+    photo: user.png
+    homepage: https://prosys.kaist.ac.kr/home/wooseokkang
+    email: kangwoosukeq@kaist.ac.kr
+
+  - name: TaeEun Kim
+    name-korean: 김태은
+    photo: user.png
+    homepage: https://prosys.kaist.ac.kr/home/taeeunkim
+    email: taeeun.kim@kaist.ac.kr
+
+  - name: Seungwan Kwon
+    name-korean: 권승완
+    photo: user.png
+    homepage: https://prosys.kaist.ac.kr/home/seungwankwon
+    email: seungwan.kwon@kaist.ac.kr
+
+  - name: Jongchan Park
+    name-korean: 박종찬
+    photo: user.png
+    homepage:
+    email:
+
+  - name: Sujin Jang
+    name-korean: 장수진
+    photo: user.png
+    homepage:
+    email:
+
+undergrad:
+  - name: Jaeho Kim
+    name-korean: 김재호
+    photo: user.png
+    homepage: https://prosys.kaist.ac.kr/home/oojahooo
+    email: oojahooo@gmail.com
