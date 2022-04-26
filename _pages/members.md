@@ -78,7 +78,7 @@ permalink: /members/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }} ({{ member.name-korean }})</h4>
-  <i>Master Student</i>
+  <i>Undergrad Student</i>
   <a href="{{ member.homepage }}"><i class="fas fa-home" style="color:#1B4F72"></i></a>
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope" style="color:#1B4F72"></i></a>
 </div>
