@@ -40,9 +40,9 @@ master:
 
   - name: Sujin Jang
     name-korean: 장수진
-    photo: user.png
-    homepage:
-    email:
+    photo: sujin.jpg
+    homepage: https://prosys.kaist.ac.kr/home/sujinjang
+    email: sujin0529@kaist.ac.kr
 
 undergrad:
   - name: Jaeho Kim
