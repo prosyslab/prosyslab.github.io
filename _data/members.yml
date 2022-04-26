@@ -50,3 +50,9 @@ undergrad:
     photo: user.png
     homepage: https://prosys.kaist.ac.kr/home/oojahooo
     email: oojahooo@gmail.com
+ 
+  - name: Haechan An
+    name-korean: 안해찬
+    photo: user.png
+    homepage: https://anhaechan.github.io/
+    email: vamoshcahn@kaist.ac.kr
