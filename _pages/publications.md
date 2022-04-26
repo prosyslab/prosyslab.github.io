@@ -91,10 +91,10 @@ and {{ author }}
     [<a href="slides/{{ pub.slides }}">slides</a>]
   {% endif %}
   {% if pub.video != nil %}
-    [<a href="{{ pub.video }}">video</a>]
+    <a href="{{ pub.video }}"><i class="fab fa-youtube" style="font-size: 20px; vertical-align: middle"></i></a>
   {% endif %}
   {% if pub.code != nil %}
-    [<a href="{{ pub.code }}">code</a>]
+    <a href="{{ pub.code }}"><i class="fab fa-github" style="font-size: 20px; vertical-align: middle"></i></a>
   {% endif %}
   </li>
   <br>
