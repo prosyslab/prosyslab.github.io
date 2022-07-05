@@ -1,9 +1,8 @@
 ---
-title: "Prosys Lab - Research"
-layout: textlay
-excerpt: "Prosys Lab -- Research"
-sitemap: false
+layout: splash
 permalink: /research/
+classes: wide
+author_profile: false
 ---
 
 ## Research
@@ -17,7 +16,7 @@ The key insight is to rank analysis alarms by performing
 inference on a conventional graphical model (e.g., a Bayesian network or a Markov
 logic network) that quantifies the incompleteness in individual steps of reasoning
 of the analysis.</p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/petablox-system.png" alt="Petablox System Diagram" style="width:70%;" class="center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/research/petablox-system.png" alt="Petablox System Diagram" style="width:70%;" class="center-block">
 <h5>Papers:
   [<a href="{{ site.url }}{{ site.baseurl }}/publications/icse22.pdf">ICSE 2022</a>]
   [<a href="{{ site.url }}{{ site.baseurl }}/publications/fse21.pdf">FSE 2021</a>]
@@ -34,7 +33,7 @@ We develop a weighted search algorithm to efficiently enumerate programs in orde
 We also propose a method based on transfer learning that enables to effectively learn a powerful model, called probabilistic higher order grammar,
 from known solutions in a domain. We have implemented our approach in a tool called Euphony and evaluate it on SyGuS benchmark problems from a variety of domains.
 </p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/euphony-system.png" alt="Euphony System Diagram" style="width:70%;" class="center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/research/euphony-system.png" alt="Euphony System Diagram" style="width:70%;" class="center-block">
 <h5>Papers:
 [<a href="{{ site.url }}{{ site.baseurl }}/publications/ijcai19.pdf">IJCAI 2019</a>]
 [<a href="{{ site.url }}{{ site.baseurl }}/publications/pldi18b.pdf">PLDI 2018</a>]
@@ -50,7 +49,7 @@ the original program according to a given high-level specification. The project 
 a multitude of research problems such as how to specify the desired behavior,
 how to efficiently debloat programs in language-specific and language-independent
 ways, and what correctness guarantees to provide.</p><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/chisel-system.png" alt="Chisel System Diagram" style="width:70%;" class="center-block">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/research/chisel-system.png" alt="Chisel System Diagram" style="width:70%;" class="center-block">
 <h5>Papers:
 [<a href="{{ site.url }}{{ site.baseurl }}/publications/asiaccs22.pdf">ASIACCS 2022</a>]
 [<a href="{{ site.url }}{{ site.baseurl }}/publications/ccs18.pdf">CCS 2018</a>]

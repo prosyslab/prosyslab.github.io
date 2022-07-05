@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  Welcome to Prosyslab Blog!
+title:  환영합니다!
 date:   2019-12-31
-author: 허기홍
+author: Kihong Heo
+tags:
+  - Etc
 ---
+
 안녕하세요.
 
 연구실을 새로 만들고 홈페이지를 꾸미면서, 재미난 양념으로 블로그를 개설했습니다.

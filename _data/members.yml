@@ -9,12 +9,14 @@ professor:
 master:
   - name: Hyunsu Kim
     name-korean: 김현수
+    info: Master Student
     photo: hyunsu.jpeg
     homepage: https://prosys.kaist.ac.kr/home/hyunsukim
     email: hyunsu.kim00@kaist.ac.kr
 
   - name: Wooseok Kang
     name-korean: 강우석
+    info: Master Student
     photo: wooseok.jpg
     homepage: https://prosys.kaist.ac.kr/home/wooseokkang
     email: kangwoosukeq@kaist.ac.kr
@@ -28,31 +30,28 @@ master:
 
   - name: Seungwan Kwon
     name-korean: 권승완
+    info: Master Student
     photo: seungwan.jpg
     homepage: https://prosys.kaist.ac.kr/home/seungwankwon
     email: seungwan.kwon@kaist.ac.kr
 
   - name: Jongchan Park
     name-korean: 박종찬
+    info: Master Student
     photo: user.png
     homepage:
     email:
 
   - name: Sujin Jang
     name-korean: 장수진
+    info: Master Student
     photo: sujin.jpg
     homepage: https://prosys.kaist.ac.kr/home/sujinjang
     email: sujin0529@kaist.ac.kr
 
-undergrad:
   - name: Jaeho Kim
     name-korean: 김재호
+    info: Master Student
     photo: user.png
     homepage: https://prosys.kaist.ac.kr/home/oojahooo
     email: oojahooo@gmail.com
-
-  - name: Haechan An
-    name-korean: 안해찬
-    photo: user.png
-    homepage: https://anhaechan.github.io/
-    email: vamoshcahn@kaist.ac.kr

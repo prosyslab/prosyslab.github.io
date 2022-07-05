@@ -1,0 +1,10 @@
+Kihong Heo:
+  name: "허기홍"
+  avatar: "/assets/images/members/kihong.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kihong.heo@kaist.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kihongheo.kaist.ac.kr"
