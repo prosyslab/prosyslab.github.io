@@ -24,7 +24,25 @@ author_profile: false
 </table>
 {% endfor %}
 
-### Students
+### PhD Students
+{% for member in site.data.members.phd %}
+<table style="border-bottom:0px !important;">
+  <tr style="border-bottom:0px !important;">
+    <td width="25%" style="border-bottom:0px !important;">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/members/{{ member.photo }}" />
+    </td>
+    <td width="75%" style="border-bottom:0px !important;">
+      <h3>{{ member.name }} ({{ member.name-korean }})</h3>
+      <i>{{ member.info }}</i>
+      <a href="{{ member.homepage }}"><i class="fas fa-home" style="color:#1B4F72"></i></a>
+      <a href="mailto:{{ member.email }}"><i class="fas fa-envelope" style="color:#1B4F72"></i></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+{% endfor %}
+
+### Master Students
 {% for member in site.data.members.master %}
 <table style="border-bottom:0px !important;">
   <tr style="border-bottom:0px !important;">
