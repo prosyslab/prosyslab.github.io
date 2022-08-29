@@ -7,6 +7,12 @@ professor:
     email: kihong.heo@kaist.ac.kr
 
 phd:
+  - name: Yeonhee Ryou
+    name-korean: 류연희
+    info: PhD Student
+    photo: yeonhee.png
+    homepage: https://yeonhee-ryou.github.io/
+    email: yeonhee.ryou@kaist.ac.kr
 
 master:
   - name: Wooseok Kang
