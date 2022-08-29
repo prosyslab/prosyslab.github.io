@@ -7,13 +7,6 @@ professor:
     email: kihong.heo@kaist.ac.kr
 
 master:
-  - name: Hyunsu Kim
-    name-korean: 김현수
-    info: Master Student
-    photo: hyunsu.jpeg
-    homepage: https://prosys.kaist.ac.kr/home/hyunsukim
-    email: hyunsu.kim00@kaist.ac.kr
-
   - name: Wooseok Kang
     name-korean: 강우석
     info: Master Student
@@ -55,3 +48,13 @@ master:
     photo: user.png
     homepage: https://prosys.kaist.ac.kr/home/oojahooo
     email: oojahooo@gmail.com
+
+alumni:
+  - name: Hyunsu Kim
+    name-korean: 김현수
+    info: M.S.
+    photo: hyunsu.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/hyunsukim
+    email: hyunsu.kim00@kaist.ac.kr
+    year: 2022
+    occupation: Furiosa AI
