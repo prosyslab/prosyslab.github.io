@@ -33,9 +33,9 @@ master:
   - name: Jongchan Park
     name-korean: 박종찬
     info: Master Student
-    photo: user.png
-    homepage:
-    email:
+    photo: jongchan.jpg
+    homepage: https://prosys.kaist.ac.kr/home/jongchanpark
+    email: jongchan.park@kaist.ac.kr
 
   - name: Sujin Jang
     name-korean: 장수진
