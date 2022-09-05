@@ -51,5 +51,8 @@ and {{ author }}
   {% if pub.code != nil %}
     <a href="{{ pub.code }}"><i class="fab fa-github" style="font-size: 20px; vertical-align: middle"></i></a>
   {% endif %}
+  {% if pub.project_page != nil %}
+    <a href="{{ pub.project_page }}"><i class="fab fa-house" style="font-size: 20px; vertical-align: middle"></i></a>
+  {% endif %}
   </li>
 {% endfor %}
