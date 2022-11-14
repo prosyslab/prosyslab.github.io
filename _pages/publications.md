@@ -43,7 +43,7 @@ and {{ author }}
     [<a href="{{ site.baseurl }}/publications/{{ pub.full }}">full-version</a>]
   {% endif %}
   {% if pub.slides != nil %}
-    [<a href="slides/{{ pub.slides }}">slides</a>]
+    [<a href="{{ site.baseurl }}/publications/{{ pub.slides }}">slides</a>]
   {% endif %}
   {% if pub.video != nil %}
     <a href="{{ pub.video }}"><i class="fab fa-youtube" style="font-size: 20px; vertical-align: middle"></i></a>
