@@ -2,6 +2,7 @@
 title:  환영합니다!
 date:   2019-12-31
 author: Kihong Heo
+kor_author: 허기홍
 tags:
   - Etc
 ---

@@ -2,6 +2,7 @@
 title:  Tracer 의 실패 여정
 date:   2022-11-15
 author: Kihong Heo
+kor_author: 허기홍
 tags:
   - Research
   - CCS2022
