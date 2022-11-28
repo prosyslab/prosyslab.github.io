@@ -19,3 +19,15 @@ Tae Eun Kim:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://goodtaeeun.github.io/"
+
+Seungwan Kwon:
+  name: "권승완"
+  avatar: "/assets/images/members/seungwan.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:seungwan.kwon@kaist.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://hhro.github.io/"
+
