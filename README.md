@@ -7,6 +7,15 @@ bundle exec jekyll serve
 위 커맨드로 빌드하고 `http://localhost:4000` 으로 접속하면 된다.
 로컬에서 잘 동작하는지 확인하고 푸쉬나 PR 하도록 하자.
 
+### (참고) Docker 이용방법
+```sh
+docker run --rm -it -p 4000:4000 \
+    -e TZ=Asia/Seoul \
+    -e PAGES_REPO_NWO="prosys/prosys.github.io" \
+    -v "$PWD:/srv/jekyll" \
+    jekyll/jekyll sh -c "chown -R jekyll /srv/jekyll && bundle install && bundle exec jekyll serve --host 0.0.0.0"
+```
+
 ## Blog 쓰기
 - `_data/authors.yml`에 본인의 정보를 기록
 - `_post` 에 형식에 맞추어 글 작성
