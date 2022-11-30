@@ -31,3 +31,13 @@ Seungwan Kwon:
       icon: "fas fa-fw fa-link"
       url: "https://hhro.github.io/"
 
+Yeonhee Ryou:
+  name: "류연희"
+  avatar: "assets/images/members/yeonhee.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yeonhee.ryou@kaist.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://yeonhee-ryou.github.io/"
