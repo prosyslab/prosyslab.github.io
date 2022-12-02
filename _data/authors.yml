@@ -41,3 +41,14 @@ Yeonhee Ryou:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://yeonhee-ryou.github.io/"
+
+Jaeho Kim:
+  name: "김재호"
+  avatar: "/assets/images/members/jaeho.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:oojahooo@kaist.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://oojahooo.github.io/"
