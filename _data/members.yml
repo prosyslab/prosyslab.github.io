@@ -57,6 +57,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/oojahooo
     email: oojahooo@gmail.com
 
+  - name: Changgong Lee
+    name-korean: 이창공
+    info: Master Student
+    photo: changgong.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/changgonglee
+    email: zackcglee@kaist.ac.kr
+
 alumni:
   - name: Hyunsu Kim
     name-korean: 김현수
