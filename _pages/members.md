@@ -66,10 +66,16 @@ author_profile: false
 {% for member in site.data.members.alumni %}
   <tr style="border-bottom:0px">
     <td width="75%" style="border-bottom:0px">
-      <h3 style="margin-top:0px">{{ member.name }} ({{ member.name-korean }})</h3>
-      <i>{{ member.info }}, {{ member.year }}, {{ member.occupation }}.</i>
+      <h3 style="margin-top:0px">{{ member.name }} ({{ member.name-korean }})
       <a href="{{ member.homepage }}"><i class="fas fa-home" style="color:#1B4F72"></i></a>
       <a href="mailto:{{ member.email }}"><i class="fas fa-envelope" style="color:#1B4F72"></i></a>
+      </h3>
+      <i>&#127891; {{ member.info }}, {{ member.year }}</i>
+      {% if member.award != nil %}
+      <br>&#127942; {{ member.award }}
+      {% endif %}
+      <br>
+      <i>&#127970; {{ member.occupation }}</i>
     </td>
   </tr>
 {% endfor %}

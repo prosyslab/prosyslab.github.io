@@ -15,13 +15,6 @@ phd:
     email: yeonhee.ryou@kaist.ac.kr
 
 master:
-  - name: Wooseok Kang
-    name-korean: 강우석
-    info: Master Student
-    photo: wooseok.jpg
-    homepage: https://prosys.kaist.ac.kr/home/wooseokkang
-    email: kangwoosukeq@kaist.ac.kr
-
   - name: TaeEun Kim
     name-korean: 김태은
     info: Master Student
@@ -73,3 +66,13 @@ alumni:
     email: hyunsu.kim00@kaist.ac.kr
     year: 2022
     occupation: Furiosa AI
+
+  - name: Wooseok Kang
+    name-korean: 강우석
+    info: M.S.
+    photo: wooseok.jpg
+    homepage: https://prosys.kaist.ac.kr/home/wooseokkang
+    email: kangwoosukeq@kaist.ac.kr
+    year: 2023
+    occupation: Theory
+    award: Best Thesis Award, School of Computing, KAIST
