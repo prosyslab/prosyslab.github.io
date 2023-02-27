@@ -57,6 +57,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/changgonglee
     email: zackcglee@kaist.ac.kr
 
+  - name: Jaeseong Kwon
+    name-korean: 권재성
+    info: Master Student
+    photo: jaeseong.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/jaeseongkwon
+    email: jaeseong.kwon@kaist.ac.kr
+
 alumni:
   - name: Hyunsu Kim
     name-korean: 김현수
