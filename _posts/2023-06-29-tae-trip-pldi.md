@@ -47,8 +47,6 @@ PLMW, 즉 PLDI에서 열리는 멘토링 워크샵에 참여하고 싶은지 의
 이번 학회에서 만난 친구는 모두 세명이다. Jiani Huang, Ziyang Li, 그리고 Mayank Keoliya.
 이들과의 만남은 예상치 못하게 튜토리얼 세션에서 시작되었다.
 
-<br/>
-
 ### **Scallop 튜토리얼**
 Scallop은 뉴로심볼릭(Neurosymbolic) 프로그래밍 언어이다. 뉴로심볼릭은 인공신경망의 Neuro와 논리적인 프로그래밍 이론의 Symbolic을 합성하여 만든 용어다.
 따라서 인공지능과 PL의 장점을 결합하는 한 시도의 결과라고 볼 수 있다.
@@ -196,6 +194,14 @@ PLDI 뿐 아니라 POPL과 ICFP에서도 열리는 듯 했다.
 PLDI에서 사용한 두개의 세션룸 중 하나는 규모가 워낙 커서 2000명이 넘는 인원을 수용할 수 있었다.
 그래서 그런지 음향이나 화면도 굉장한 수준의 장비들을 사용했는데, 나중에 꼭 이런 장소에서 발표를 해보고 싶다는 생각이 들었다.
 
+| ![](/assets/images/trip/PLDI2023/taeeun/confMap.JPG) |
+|:--:|
+| <b>굉장히 큰 학회장 지도. 숙소에서 학회장까지 15분이 걸린다.</b>|
+
+| ![](/assets/images/trip/PLDI2023/taeeun/confRoom.JPG) |
+|:--:|
+| <b>굉장히 큰 학회장.</b>|
+
 ### **자극적인 연구실**
 몰랐던 그룹인데, NUS의 Ilya Sergey 교수님의 그룹이 있다.
 그런데 여기에서 이번 PLDI Distinguished paper 와 artifact 상을 모두 받아갔다.
@@ -205,6 +211,10 @@ PLDI에서 사용한 두개의 세션룸 중 하나는 규모가 워낙 커서 2
 발표 슬라이드 전체를 아이패드로 대충 끄적여서 준비한 사람이 있었다.
 첫 장을 봤을 때는 재밋어서 웃었는데, 끝까지 그런 슬라이드일 둘은 예상하지 못했다.
 나름 페이지마다 페이지 번호도 손수 써가며 벤치마크 테이블까지 손수 그린걸 보고 참 대단하다 생각했다.
+
+| ![](/assets/images/trip/PLDI2023/taeeun/slide.JPG) |
+|:--:|
+| <b>요상한 슬라이드</b>|
 
 ### **Distinguished paper들의 특징**
 발표를 듣고 나면 대충 이런 생각이 든다. "간단한데, 잘 되더라!"
@@ -216,6 +226,14 @@ DAFL도 충분히 간단하지 않나 하며 기대를 살짝 해본다.
 PLDI 참가국 중 무려 3등, 5.2%를 차지해버렸다.
 이제 우리나라도 무시 못할 PL 종주국이 되었다.
 그 다음으로는 우리가 무시 못할 연구실이 되어야겠다.
+
+| ![](/assets/images/trip/PLDI2023/taeeun/pieChart.JPG) |
+|:--:|
+| <b>한국인의 위상 1</b>|
+
+| ![](/assets/images/trip/PLDI2023/taeeun/koreans.JPG) |
+|:--:|
+| <b>한국인의 위상 2</b>|
 
 ### **모르는게 너무 많다!**
 이번 학회를 통해 가장 잘 알게 된 것은 내가 모르는게 너무 많다는 것이다.
@@ -233,14 +251,6 @@ PLDI 참가국 중 무려 3등, 5.2%를 차지해버렸다.
 학회에서 먹은 음식들은 가끔 한번씩 먹으면 맛있을 음식들이었다.
 양이 많고, 간이 짠 음식들이 많아서 그런 것 같다.
 
-| ![](/assets/images/trip/PLDI2023/taeeun/confMap.JPG) |
-|:--:|
-| <b>굉장히 큰 학회장 지도. 숙소에서 학회장까지 15분이 걸린다.</b>|
-
-| ![](/assets/images/trip/PLDI2023/taeeun/confRoom.JPG) |
-|:--:|
-| <b>굉장히 큰 학회장.</b>|
-
 | ![](/assets/images/trip/PLDI2023/taeeun/steak.JPG) |
 |:--:|
 | <b>미국 스테이크</b>|
@@ -248,21 +258,6 @@ PLDI 참가국 중 무려 3등, 5.2%를 차지해버렸다.
 | ![](/assets/images/trip/PLDI2023/taeeun/burger.JPG) |
 |:--:|
 | <b>미국 햄버거</b>|
-
-| ![](/assets/images/trip/PLDI2023/taeeun/pieChart.JPG) |
-|:--:|
-| <b>한국인의 위상 1</b>|
-
-| ![](/assets/images/trip/PLDI2023/taeeun/koreans.JPG) |
-|:--:|
-| <b>한국인의 위상 2</b>|
-
-| ![](/assets/images/trip/PLDI2023/taeeun/slide.JPG) |
-|:--:|
-| <b>요상한 슬라이드</b>|
-
-
-
 
 <br/><br/>
 
