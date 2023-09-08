@@ -14,21 +14,14 @@ phd:
     homepage: https://yeonhee-ryou.github.io/
     email: yeonhee.ryou@kaist.ac.kr
 
-master:
-  - name: TaeEun Kim
+  - name: Tae Eun Kim
     name-korean: 김태은
-    info: Master Student
+    info: PhD Student
     photo: taeeun.jpg
     homepage: https://prosys.kaist.ac.kr/home/taeeunkim
     email: taeeun.kim@kaist.ac.kr
 
-  - name: Seungwan Kwon
-    name-korean: 권승완
-    info: Master Student
-    photo: seungwan.jpg
-    homepage: https://prosys.kaist.ac.kr/home/seungwankwon
-    email: seungwan.kwon@kaist.ac.kr
-
+master:
   - name: Jongchan Park
     name-korean: 박종찬
     info: Master Student
@@ -83,3 +76,12 @@ alumni:
     year: 2023
     occupation: Theory
     award: Best Thesis Award, School of Computing, KAIST
+
+  - name: Seungwan Kwon
+    name-korean: 권승완
+    info: M.S.
+    photo: seungwan.jpg
+    homepage: https://prosys.kaist.ac.kr/home/seungwankwon
+    email: seungwan.kwon@kaist.ac.kr
+    year: 2023
+    occupation: Rebellions
