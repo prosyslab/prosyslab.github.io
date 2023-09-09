@@ -63,3 +63,14 @@ Wooseok Kang:
     - label: "Home"
       icon: "fas fa-fw fa-igloo"
       url: "https://kangwoosukeq.github.io/"
+
+Sujin Jang:
+  name: "장수진"
+  avatar: "assets/images/members/sujin.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:sujin.jang@kaist.ac.kr"
+    - label: "Home"
+      icon: "fas fa-fw fa-igloo"
+      url: "https://sujin0529.github.io/"
