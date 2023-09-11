@@ -74,3 +74,14 @@ Sujin Jang:
     - label: "Home"
       icon: "fas fa-fw fa-igloo"
       url: "https://sujin0529.github.io/"
+
+Jongchan Park:
+  name: "박종찬"
+  avatar: "assets/images/members/jongchan.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jongchan.park@kaist.ac.kr"
+    - label: "Home"
+      icon: "fas fa-fw fa-igloo"
+      url: "https://KAIST-JongchanPark.github.io/"
