@@ -22,13 +22,6 @@ phd:
     email: taeeun.kim@kaist.ac.kr
 
 master:
-  - name: Jongchan Park
-    name-korean: 박종찬
-    info: Master Student
-    photo: jongchan.jpg
-    homepage: https://prosys.kaist.ac.kr/home/jongchanpark
-    email: jongchan.park@kaist.ac.kr
-
   - name: Sujin Jang
     name-korean: 장수진
     info: Master Student
@@ -58,24 +51,24 @@ master:
     email: jaeseong.kwon@kaist.ac.kr
 
 alumni:
-  - name: Hyunsu Kim
-    name-korean: 김현수
-    info: M.S.
-    photo: hyunsu.jpeg
-    homepage: https://prosys.kaist.ac.kr/home/hyunsukim
-    email: hyunsu.kim00@kaist.ac.kr
-    year: 2022
-    occupation: Furiosa AI
-
-  - name: Wooseok Kang
-    name-korean: 강우석
-    info: M.S.
-    photo: wooseok.jpg
-    homepage: https://prosys.kaist.ac.kr/home/wooseokkang
-    email: kangwoosukeq@kaist.ac.kr
-    year: 2023
+  - name: Jongchan Park
+    name-korean: 박종찬
+    info: Master Student
+    photo: jongchan.jpg
+    homepage: https://prosys.kaist.ac.kr/home/jongchanpark
+    email: jongchan.park@kaist.ac.kr
+    year: 2024
     occupation: Theory
-    award: Best Thesis Award, School of Computing, KAIST
+
+  - name: Tae Eun Kim
+    name-korean: 김태은
+    info: M.S.
+    photo: taeeun.jpg
+    homepage: https://prosys.kaist.ac.kr/home/taeeunkim
+    email: taeeun.kim@kaist.ac.kr
+    year: 2023
+    occupation: Ph.D student at KAIST
+    award: Outstanding Master's Thesis Award, School of Computing, KAIST
 
   - name: Seungwan Kwon
     name-korean: 권승완
@@ -85,3 +78,23 @@ alumni:
     email: seungwan.kwon@kaist.ac.kr
     year: 2023
     occupation: Rebellions
+    award: Outstanding Master's Thesis Award, School of Computing, KAIST
+
+  - name: Wooseok Kang
+    name-korean: 강우석
+    info: M.S.
+    photo: wooseok.jpg
+    homepage: https://prosys.kaist.ac.kr/home/wooseokkang
+    email: kangwoosukeq@kaist.ac.kr
+    year: 2023
+    occupation: Theory
+    award: Outstanding Master's Thesis Award, School of Computing, KAIST
+
+  - name: Hyunsu Kim
+    name-korean: 김현수
+    info: M.S.
+    photo: hyunsu.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/hyunsukim
+    email: hyunsu.kim00@kaist.ac.kr
+    year: 2022
+    occupation: Furiosa AI
