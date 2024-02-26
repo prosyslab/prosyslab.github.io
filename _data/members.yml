@@ -50,6 +50,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/jaeseongkwon
     email: jaeseong.kwon@kaist.ac.kr
 
+  - name: Geon Park
+    name-korean: 박건
+    info: Master Student
+    photo: geon.jpg
+    homepage: https://prosys.kaist.ac.kr/home/geonpark
+    email: geon.park00@kaist.ac.kr
+
 alumni:
   - name: Jongchan Park
     name-korean: 박종찬
