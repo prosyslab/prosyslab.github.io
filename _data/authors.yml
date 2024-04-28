@@ -85,3 +85,14 @@ Jongchan Park:
     - label: "Home"
       icon: "fas fa-fw fa-igloo"
       url: "https://KAIST-JongchanPark.github.io/"
+
+Jaeseong Kwon:
+  name: "권재성"
+  avatar: "assets/images/members/jaeseong.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jaeseong.kwon@kaist.ac.kr"
+    - label: "Home"
+      icon: "fas fa-fw fa-igloo"
+      url: "https://doitman.kr/"
