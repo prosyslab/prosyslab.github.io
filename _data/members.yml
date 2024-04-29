@@ -71,6 +71,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/dongjaelee
     email: dongjae.lee00@kaist.ac.kr
 
+  - name: Haejoon Park
+    name-korean: 박해준
+    info: Master Student
+    photo: haejoon.jpg
+    homepage: https://prosys.kaist.ac.kr/home/haejoonpark
+    email: haejoon.park@kaist.ac.kr
+
 alumni:
   - name: Jongchan Park
     name-korean: 박종찬
