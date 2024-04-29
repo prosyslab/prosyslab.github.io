@@ -5,7 +5,7 @@ author: Tae Eun Kim
 kor_author: 김태은
 tags:
   - Trip
-  - ICSE 2024
+  - ICSE2024
 classes: wide
 ---
 
@@ -163,7 +163,7 @@ Andreas 교수님의 논문들보다는 블로그의 글을 더 많이 읽었는
 따라서 결함 의심 지점이 포함된 함수 단위로만 퍼징이 가능하도록 프로그램을 변형하고 5분간 퍼징을 시도한 후, 결함이 발견되지 않으면 오탐으로 판단하는 방법을 제안했다.
 
 개인적으로는 이 논문을 쉽게 받아들이기 힘들었다.
-모두가 아는 다익스트라의 명언인 "Program testing can be used to show the presence of bugs, but never to show their absence"처럼 
+모두가 아는 다익스트라의 명언인 "Program testing can be used to show the presence of bugs, but never to show their absence"처럼
 어째서 단순히 5분간 결함이 발생하지 않았다고 오탐으로 판단하는 것이 타당한지 이해하기 어려웠다.
 물론 실험적으로는 정확도가 꽤 높은 것으로 나왔지만 개념적으로 잘 와닿지 않았다.
 저자들도 이것이 개념적으로 새로운 접근인 것을 알고 있는지 논문에도 기여하는 바 중 하나를 "Conceptual Innovation"으로 표현했다.
