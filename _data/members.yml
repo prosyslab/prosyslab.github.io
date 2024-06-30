@@ -21,21 +21,14 @@ phd:
     homepage: https://prosys.kaist.ac.kr/home/taeeunkim
     email: taeeun.kim@kaist.ac.kr
 
-master:
   - name: Sujin Jang
     name-korean: 장수진
-    info: Master Student
+    info: PhD Student
     photo: sujin.jpg
     homepage: https://prosys.kaist.ac.kr/home/sujinjang
     email: sujin0529@kaist.ac.kr
 
-  - name: Jaeho Kim
-    name-korean: 김재호
-    info: Master Student
-    photo: jaeho.jpg
-    homepage: https://prosys.kaist.ac.kr/home/oojahooo
-    email: oojahooo@gmail.com
-
+master:
   - name: Changgong Lee
     name-korean: 이창공
     info: Master Student
@@ -71,14 +64,15 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/dongjaelee
     email: dongjae.lee00@kaist.ac.kr
 
-  - name: Haejoon Park
-    name-korean: 박해준
-    info: Master Student
-    photo: haejoon.jpg
-    homepage: https://prosys.kaist.ac.kr/home/haejoonpark
-    email: haejoon.park@kaist.ac.kr
-
 alumni:
+  - name: Jaeho Kim
+    name-korean: 김재호
+    info: Master Student
+    photo: jaeho.jpg
+    homepage: https://prosys.kaist.ac.kr/home/oojahooo
+    email: oojahooo@gmail.com
+    year: 2024
+
   - name: Jongchan Park
     name-korean: 박종찬
     info: Master Student
@@ -86,7 +80,7 @@ alumni:
     homepage: https://prosys.kaist.ac.kr/home/jongchanpark
     email: jongchan.park@kaist.ac.kr
     year: 2024
-    occupation: Theory
+    occupation: Furiosa AI
 
   - name: Tae Eun Kim
     name-korean: 김태은
