@@ -17,7 +17,8 @@ classes: wide
 <br/><br/>
 
 # 들어가며
-지향성 퍼징 연구를 하며 느꼈던 답답함을 담았던 논문인 "Evaluating Directed Fuzzing: Are We Heading in the Right Direction?<sup>[1](#evaldirfuzz)</sup>"을 발표하러 2024 FSE 학회에 참석하게 되었다.
+지향성 퍼징 연구를 하며 느꼈던 답답함을 담았던 논문인
+"Evaluating Directed Fuzzing: Are We Heading in the Right Direction?<sup>[1](#evaldirfuzz)</sup>"을 발표하러 2024 FSE 학회에 참석하게 되었다.
 이번 FSE는 브라질에서 열리기에 생애 첫 남미행에 올랐다.
 미국은 몇번 가 보았지만 브라질은 체감상 두배나 멀었다.
 비행 시간만 28시간, 집에서 숙소까지는 42시간이 걸린 대장정을 거쳐 브라질의 Porto de Galhinas에 도착했다.
@@ -42,8 +43,8 @@ classes: wide
 하지만 이번 논문은 기존 논문들이 실험 과정에서 놓치고 있었던 여러 문제를 드러내고 그에 대한 해결책을 제시하는 논문이었다.
 따라서 하나의 개념을 설명하기보다는 여러 단계의 각 문제와 해결책을 나열식으로 설명해야 했다.
 나열식 발표의 관건은 단조로울 수 있는 흐름에도 불구하고 청중의 흥미를 유지시키는 것이다.
-이룰 위해서는 각 항목이 모두 재미있어야 한다.
-그래서 최대한 재미있고 충격적인 예제를 많이 집어넣었다.
+이를 위해서는 각 항목이 모두 재미있어야 한다.
+그래서 최대한 재미있고 충격적인 예제를 많이 집어넣으려고 노력했다.
 
 ## 다듬기
 이번에도 정말 많은 도움을 받아 발표 자료를 다듬고 연습했다.
@@ -54,11 +55,11 @@ classes: wide
 두번째로는 논문의 공동 저자이신 허기홍 교수님과 차상길 교수님, 그리고 각 연구실 학생들 앞에서 리허설을 진행하였다.
 약 20명 정도의 청중 앞에서 발표를 하는 것 자체도 귀하고 소중한 경험이었지만,
 학생들의 다양한 질문과 피드백은 예상 질문을 대비하고 발표 자료의 세밀한 완성도를 높이는 데 큰 도움이 되었다.
-또한 교수님들의 피드백은 정말 큰 도움이 되었다.
+교수님들의 피드백은 정말 큰 도움이 되었다.
 허기홍 교수님의 피드백은 발표 자료의 가독성에 큰 도움을 주었고, 차상길 교수님의 피드백은 우리의 동기가 무엇인지 정확히 전달할 수 있도록 도와주었다.
 
 마지막으로는 소프트웨어 재난연구센터 워크숍에서 발표를 진행했다.
-한국어로 발표하고 시간도 더 여유있는 30분으로 실제 학회 발표와는 차이가 좀 있었지만
+한국어로 발표했고 시간도 더 여유있는 30분으로 실제 학회 발표와는 차이가 좀 있었지만
 100명에 가까운 청중 앞에서의 발표, 처지지 않게 흐름을 끌고 가는 연습, 그리고 사람들의 반응과 질문을 살펴보는 것이 매우 의미있었다.
 특히 유신 교수님 연구실의 강성민 박사님이 주신 질문과 이주용 교수님, 최윤자 교수님이 주신 아티팩트에 대한 질문이 감사했고 또 도움이 되었다.
 
@@ -72,7 +73,7 @@ classes: wide
 이번 FSE는 모든 논문 저자들에게 포스터 발표를 할 기회를 주어서 우리도 포스터를 준비했다.
 그런데 문제는 포스터 세션이 30분이고, 내 발표 세션 직전으로 배정된 것이다.
 순서가 반대였다면 정말 최고의 상황이었을 텐데 너무 아쉬웠다.
-원래 발표를 할 때도 재밌게 들으셨다면 포스터 세션에 와주세요~ 라고 말하려고 했지만, 그럴 수 없게 되었다.
+원래 발표를 할 때도 "재밌게 들으셨다면 포스터 세션에 와주세요~" 라고 말하려고 했지만, 그럴 수 없게 되었다.
 그래도 주어진 상황에서 최선을 다하기 위해 포스터를 붙이고 자리에 서 있었다.
 생각보다 사람들이 많이 오길래 열심히 설명을 시작했다.
 그러다 발표 시작 15분 전, 허기홍 교수님의 조언대로 발표 자료 확인을 위해 잠시 양해를 구하고 발표장으로 달려갔다.
@@ -118,14 +119,15 @@ classes: wide
 함께 연구를 진행하는 서강대학교의 최재승 교수님, 그리고 걸어서 10분 거리에 있는 카이스트의 강성민 박사님도 평소에 보기는 어렵지만 학회에서 만나 더 많은 이야기를 나눌 수 있었다. 
 
 이번 FSE 에서는 새로운 만남도 있었다. USC의 William G.J. Halfond 교수님 연구실의 Zhaoxu Zhang과 Fazle Mohammed Tawsif였다.
-Tawsif의 경우, 낯이 익어서 학회 단골 플러팅 멘트인 "우리 어디서 본 적 있지 않나요?"를 시전했는데 ([학회 네트워킹 실습 자료](https://goodtaeeun.github.io/assets/networking.pdf) 참고) 역시나
-지난 4월 포르투갈에서 열린 ICSE Student mentoring workshop에서 만난 사람이었다.
-그런데 이번에 알고 보니 이 친구와는 생각보다 인연이 깊었는데 그 시작은 22년 11월로 거슬러 올라간다.
+Tawsif의 경우, 낯이 익어서 학회 단골 플러팅 멘트인 "우리 어디서 본 적 있지 않나요?"를 시전했는데
+([학회 네트워킹 실습 자료](https://goodtaeeun.github.io/assets/networking.pdf) 참고)
+역시나 지난 4월 포르투갈에서 열린 ICSE Student mentoring workshop에서 만난 사람이었다.
+그런데 알고 보니 이 친구와는 생각보다 인연이 더 깊었는데 그 시작은 22년 11월로 거슬러 올라간다.
 LA에서 열린 CCS 출장의 마지막 날, 허기홍 교수님의 포닥 시절 동료인 Mukund 교수님의 초대로 USC에 방문하는 일정이 있었다.
 이 때 소프트웨어 공학 분야 연구실의 학생들과 교수님들을 대상으로 우리 교수님이 발표를 하셨는데, 그 때 그 자리에 있었다고 한다.
 서로 본 기억은 없지만 그 자리에 있었다는 사실만 각자 기억하고 있었다.
-세상 참 좁다는 말이 이런 걸까, 이름도 몰랐지만 이번이 세 번째 만남이었다.
-Zhaoxu는 점심을 같은 테이블에서 먹다가 알게 되었는데 알고 보니 Tawsif와 같은 연구실이었다. 이런 우연이!
+세상 참 좁다는 말이 이런 걸까, 이름도 몰랐지만 이번이 벌써 세 번째 만남이었다.
+Zhaoxu는 같은 테이블에서 점심을 먹다가 알게 되었는데 알고 보니 Tawsif와 같은 연구실이었다. 이런 우연이!
 나도 딱히 친구가 없고 이 친구들도 딱히 아는 사람이 많지는 않아 보여서 이 이후로도 보일때마다 같이 다녔는데,
 이번 기회에 미국 대학원생의 삶이 어떤지 조금 더 알게 되었다.
 앞으로 또 볼 기회가 있으면 좋겠다.
@@ -144,12 +146,17 @@ Zhaoxu는 점심을 같은 테이블에서 먹다가 알게 되었는데 알고 
 Abhik 교수님은 연구를 할 때 필요한 것 세가지를 언급했다.
 첫 번째는 외부의 목소리를 듣는 것이다. 내가 풀고자 하는 문제에 대해 여러 사람의 의견과 관점을 들어봐야 이 방향이 맞는지, 이 연구가 꼭 필요한지 판단할 수 있다.
 두 번째는 스스로에게 물어보는 것이다. 이 문제가 지금까지 안 풀렸는데, 내가 이걸 풀 수 있는 근거는 무엇인가? 가능성이 안 보이면 시작하지 말아야 할 수도 있다.
-세 번째는 나 혼자 잘하고 마는 연구가 아닌, 남들도 잘 할수 있는 연구를 하는 것이다. 나 혼자 잘하고 마는 연구는 기존에 비해 X% 좋아지는 연구다. 기존에 없었던 새로운 연구는 남들도 잘 할 수 있는 기회를 제공한다. 예를 들어 지향성 퍼징의 첫 논문(각주)의 경우, 수많은 사람들이 지향성 퍼징 연구에 뛰어들 수 있는 길을 열어주었다.
-이 중 두번째 포인트가 신선하게 다가왔다. 연구는 근거 있는 자신감이 필요하다.
+세 번째는 나 혼자 잘하고 마는 연구가 아닌, 남들도 잘 할수 있는 연구를 하는 것이다. 나 혼자 잘하고 마는 연구는 기존에 비해 X% 좋아지는 연구다.
+반면, 기존에 없었던 새로운 연구는 남들도 잘 할 수 있는 기회를 제공한다.
+예를 들어 지향성 퍼징의 첫 논문<sup>[2](#aflgo)</sup>의 경우, 수많은 사람들이 지향성 퍼징 연구에 뛰어들 수 있는 길을 열어주었다.
+이 중 두 번째 포인트가 신선하게 다가왔다. 연구는 근거 있는 자신감이 필요하다.
 
 ### 제안서 쓰기
 대부분은 한번쯤 들어봤던 내용이었지만 기억에 남는 것이 하나 있다.
-좋은 연구 제안서는 하이 리스크, 하이 리턴이다. 따라서, 실패할 가능성이 있다는 것을 숨기지는 않되 그럼에도 불구하고 얻을 수있는게 무엇인지를 생각해보아야 한다. 굳이 제안서를 쓸 때뿐 아니라 연구를 할 때도 이런 것을 고려해보면 좋겠다는 생각이 들었다. 지금 하는 연구가 잘 안되더라도 나에게 남는 것은 무엇이지? 경험이 될수도 있고, 새로운 아이디어가 될 수도 있고, 만들어둔 프레임워크가 될 수도 있다.
+좋은 연구 제안서는 하이 리스크, 하이 리턴이다.
+따라서 실패할 가능성이 있다는 것을 숨기지는 않되 그럼에도 불구하고 얻을 수 있는 것이 무엇인지를 생각해보아야 한다.
+굳이 제안서를 쓸 때뿐 아니라 연구를 할 때도 이런 것을 고려해보면 좋겠다는 생각이 들었다.
+지금 하는 연구가 잘 안되더라도 나에게 남는 것은 무엇일까? 경험이 될수도 있고, 새로운 아이디어가 될 수도 있고, 만들어둔 프레임워크가 될 수도 있다.
 
 | ![](https://lh3.googleusercontent.com/pw/AP1GczPDUb539O5_yURbYk98ikizgo3GbK9rcGfgm9L_8VGMbkvGFL7TVFoSevmAXzx7wGQAF1f_D5uv01Ja5I4JppSmTE9IHVi442OHqbMBp-7KL8RvL9d0ZoRW48CUdw43aoJfE5DS7tJyziTDHxdeMASV=w1295-h863-s-no-gm?authuser=0) |
 |:--:|
@@ -161,7 +168,7 @@ Abhik 교수님은 연구를 할 때 필요한 것 세가지를 언급했다.
 
 # 흥미로웠던 발표들
 
-__Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model<sup>[2](#omg)</sup>__ \
+__Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model<sup>[3](#omg)</sup>__ \
 우수 논문상을 받은 커밋 메세지 자동 생성 연구.
 기존 커밋 메세지 생성 도구들은 코드 변화 - 커밋 메세지의 관계를 학습하고, 이를 이용해 커밋 메세지를 생성한다.
 그러나 단순히 코드 변화만을 기반으로 커밋 메세지를 생성하면 그 외의 맥락은 놓치게 되며, 애초에 사람이 만든 커밋 메세지 그 자체도 그리 양질의 정보가 아닐 수 있다.
@@ -170,37 +177,44 @@ __Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and A
 수정된 파일 중 중요해보이는 파일 이름, 커밋 종류, 풀 리퀘스트 제목, 이슈 제목, 메소드 및 클래스 요약 정보.
 참고로 메소드 및 클래스 요약 정보는 단순히 코드를 요약한 것이다.
 
-사실 단순하게 보면 모을 수 있는 정보 최대한 다 모아서 LLM에 때려넣어 커밋 메세지 만드는 기법이라고 볼 수 있다. 그리고 발표자도 말하기를 현재 기법은 이렇게 정보를 물어다주는 도구들의 성능에 굉장히 의존적이라고 한다.
+사실 단순하게 보면 모을 수 있는 정보 최대한 다 모아서 LLM에 때려넣어 커밋 메세지 만드는 기법이라고 볼 수 있다.
+그리고 발표자도 말하기를 현재 기법은 이렇게 정보를 물어다주는 도구들의 성능에 굉장히 의존적이라고 한다.
 그럼에도 불구하고 도구 이름을 전지적 메시지 생성기(Omniscient Message Generator)라고 지었는데, 살짝 과장인것 같다.
 논문을 자세히 읽어보지는 못했지만 우수 논문상 받았다고 하니 아마도 글을 잘 썼나보다.
 
-__Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations<sup>[3](#build)</sup>__ \
+__Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations<sup>[4](#build)</sup>__ \
 다양한 환경에서, 혹은 다양한 목적으로 사용되는 프로그램일수록 다양한 빌드 설정이 존재한다.
 C 언어로 작성된 프로젝트를 빌드해본 사람이라면 `configure` 스크립트를 통해 다양한 옵션으로 빌드를 해본 경험이 있을 것이다.
-만약 지속적 개발(Continous Integration) 환경에서 회귀 테스트를 위해 빌드를 자주 하는 경우, 이러한 다양한 빌드 설정을 효율적으로 관리하는 것이 중요하다. `make` 등을 통해 빌드를 한다면 빌드 설정이 바뀌더라도 이전 빌드 결과를 일부 재사용할 수 있지만, 얼마나 재사용할 수 있을 지는 각 빌드 설정에 따라 다르다. 따라서 각 빌드 설정 간의 거리, 즉 재활용이 가능한 정도를 고려해 빌드 순서를 결정하는 것이 중요하다.
+만약 지속적 개발(Continuous Integration) 환경에서 퇴행 테스팅(Regression Testing)을 위해 빌드를 자주 하는 경우,
+이러한 다양한 빌드 설정을 효율적으로 관리하는 것이 중요하다.
+`make` 등을 통해 빌드를 한다면 빌드 설정이 바뀌더라도 이전 빌드 결과를 일부 재사용할 수 있지만, 얼마나 재사용할 수 있을 지는 각 빌드 설정에 따라 다르다.
+따라서 각 빌드 설정 간의 거리, 즉 재활용이 가능한 정도를 고려해 빌드 순서를 결정하는 것이 중요하다.
 
 이 연구에서는 각 빌드 설정 간의 거리를 계산해 효율적인 빌드 순서를 결정하는 방법을 제안한다.
 이 때, 거리는 생성된 `Makefile`의 내용물을 비교해 계산하며, 순서는 먼저 가장 작은 사이즈의 설정으로 빌드를 한 후 그리디하게 그 다음 가까운 빌드를 진행하는 것으로 한다.
 
-재미있는 점은 문제를 이렇게 정의하고 나면 이 문제는 TSP(Traveling Salesman Problem)로 귀결된다는 것이다.
+재미있는 점은 (비록 논문이나 발표에서 언급되진 않았지만) 문제를 이렇게 정의하고 나면 이 문제는 TSP(Traveling Salesman Problem)로 귀결된다는 것이다.
 TSP는 NP-hard 문제이기 때문에 문제의 크기가 커지면 최적해를 찾기란 쉽지 않다.
-그래도 널리 알려진 문제인 만큼 동적 프로그래밍으로 푸는 등 보다 효율적인 방법이 존재하는데 왜 그렇게 하지 않았을까 궁금했다.
+그래도 널리 알려진 문제인 만큼 동적 프로그래밍으로 푸는 등 보다 효율적인 방법이 존재하는데 왜 이 연구에서는 그렇게 하지 않았을까 궁금했다.
 그리고 실험 대상으로 쓰인 프로젝트들의 서로 다른 설정의 개수가 어떻게 되는지도 궁금했는데 논문이나 발표에서는 따로 공개가 되지 않았다.
-사실 발표 후 TSP 문제를 풀때 쓰는 휴리스틱을 안 썼냐고 물어봣는데 질문이 잘 전달되지 않은 것 같아 제대로 답변을 듣지는 못했다.
+사실 발표 후 이 문제는 TSP 문제로 볼 수 있을 것 같은데 TSP 문제를 풀 때 쓰는 휴리스틱을 안 썼냐고 물어봤는데 질문이 잘 전달되지 않은 것 같아 제대로 답변을 듣지는 못했다.
 
 
-__Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example<sup>[4](#tbe)</sup>__ \
+__Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example<sup>[5](#tbe)</sup>__ \
 Transformation by Example이란? 기존 예제로 학습된 코드변화 패턴을 적용하는 것. 단순히 말하면 자동 리팩토링이다.
 이 연구는 LLM을 이용해서 더 유연하고 자연스러운 코드 변화 패턴을 적용하려고 하는 것.
-이 때, 리팩토링의 기본은 의미의 보존이다. 보존되어야 하는 의미의 단위는 그때그때 다를 수 있다. 수정된 라인이 될 수도 있고, 함수가 될 수도 있다. 이 연구에서는 리팩토링 이후에 LLM이 생성한 테스트를 통해 원본 프로그램과 리팩토링된 프로그램의 동작이 같은지 검사한다. 
+이 때, 리팩토링의 기본은 의미의 보존이다. 보존되어야 하는 의미의 단위는 그때그때 다를 수 있다. 
+정된 라인이 될 수도 있고, 함수가 될 수도 있다.
+이 연구에서는 리팩토링 이후에 LLM이 생성한 테스트를 통해 원본 프로그램과 리팩토링된 프로그램의 동작이 같은지 검사한다. 
 
 아무래도 이 연구는 대상 언어가 파이썬이라서 가능하지 않았을까 하는 생각이 든다.
-파이선은 파이토닉하다는 표현이 있을 정도로 정답에 가까운 코드 작성 방식이 있기 때문에 자동으로 코드 변화를 적용했을 때 임의의 개발자가 이를 인정하기 더 쉬울 것 같다.
+파이썬은 파이토닉하다는 표현이 있을 정도로 정답에 가까운 코드 작성 방식이 있기 때문에 자동으로 코드 변화를 적용했을 때 임의의 개발자가 이를 인정하기 더 쉬울 것 같다.
 
-__Bounding Random Test Set Size with Computational Learning Theory<sup>[5](#pac)</sup>__ \
+__Bounding Random Test Set Size with Computational Learning Theory<sup>[6](#pac)</sup>__ \
 `The stopping problem: When can I stop my test?`
 랜덤 테스팅을 할 때, 언제까지 테스트를 돌려야 할까?
-이 연구는 랜덤 테스팅을 하며 생성되는 테스트의 분포가 일정할 때, PAC learning theory를 이용해 만든 공식으로 테스트 포화(test saturation)에 도달할 수 있는 테스트의 개수를 구하는 연구이다.
+이 연구는 랜덤 테스팅을 하며 생성되는 테스트의 분포가 일정할 때,
+PAC learning theory를 이용해 만든 공식으로 테스트 포화(test saturation)에 도달할 수 있는 테스트의 개수를 구하는 연구이다.
 이 때, 테스트 포화란 관심있어하는 정보를 추가로 얻지 못하는 상태를 말한다. 커버리지가 더 이상 증가하지 않는 상태, 혹은 버그가 더 이상 발견되지 않는 상태 등.
 그리고 여기서 사용하는 공식은 검증하고 싶은 가설의 사이즈, 정확도, 그리고 해당 정확도가 보장될 확률을 인자로 받아서 계산한다.
 
@@ -209,14 +223,15 @@ __Bounding Random Test Set Size with Computational Learning Theory<sup>[5](#pac)
 
 다만 들었던 생각은 이렇게 구해진 필요한 입력 개수가 어차피 현실적으로 감당 가능한 비용보다 높으면 의미가 없지 않을까? 라는 것이었다.
 상한선(upper bound)은 얼마든지 올라갈 수 있으니까 무한대라고 해도 틀린 말이 아니기 때문이다.
-그리고 느낌상 지난 ICSE에 이성민 박사님이 발표한 논문<sup>[6](#coverage)</sup>과 비슷한 느낌이 들었다. 안 그래도 물어보니 후속연구를 함께할 계획이라고 하더라.
+발표를 듣다 보니 지난 ICSE에 이성민 박사님이 발표한 논문<sup>[7](#coverage)</sup>과 비슷한 느낌의 연구라는 생각이 들었다.
+안 그래도 물어보니 후속연구를 함께할 계획이라고 하더라.
 
 
-__A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Localization<sup>[7](#llmfl)</sup>__ \
+__A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Localization<sup>[8](#llmfl)</sup>__ \
 강성민 박사님의 발표였다.
 최근에 나도 오류 위치 추정 연구를 했던지라 더 재미있게 들었다.
 이 연구는 LLM을 이용한 오류 위치 추정 방법을 제안하고, 이 방법이 얼마나 잘 동작하는지를 평가하는 연구이다.
-오류에 대한 정보, 실패한 테스트와 그 결과를 LLM에게 주고 LLM이 대상 프로그램을 몇번 실행하며 오류 위치를 추정하게 한다.
+오류에 대한 정보, 실패한 테스트와 그 결과를 LLM에게 주고 LLM이 대상 프로그램을 반복적으로 실행하며 오류 위치를 추정하게 한다.
 그리고 추정 결과를 설명과 함께 제시한다.
 논문이 된 만큼 성능은 당연히 기존 방법들보다 우수하다.
 하지만 내 눈에 더 들어온 것은 유저 스터디 결과, 사용자들은 LLM이 제시한 설명을 굉장히 좋아했다는 사실이다.
@@ -225,16 +240,17 @@ __A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Local
 따라서 LLM을 활용한 오류 위치 추정 방법은 그 정확성보다는 설명에 질에 더 주목해야 할 것 같다는 생각이 들었다.
 
 이건 좀 다른 이야기인데, 이 연구는 자바를 대상으로 했으며 함수 단위로 오류 위치를 추정했다.
-하지만 C 프로그램에서는 함수 단위는 택도 없으며 애초에 모듈화가 덜 되어있어 함수 단위로 한다 하더라도 LLM이 잘 못할 것 같았다.
+하지만 C 프로그램에서 함수 단위의 위치 추정은 큰 도움이 안 되며 애초에 모듈화가 덜 되어있어 함수 단위로 한다 하더라도 LLM이 잘 못할 것 같았다.
 강성민 박사님께 물어보니 C++에 대해서 해보긴 했는데, 역시나 잘 안된다고 한다.
 과연 C 프로그램에서의 오류 위치 추정은 희망이 있는걸까? 도대체 어떤 기술이 필요한 걸까 궁금하다.
 
-__Can GPT-4 Replicate Empirical Software Engineering Research?<sup>[8](#llmemp)</sup>__ \
+__Can GPT-4 Replicate Empirical Software Engineering Research?<sup>[9](#llmemp)</sup>__ \
 재미있는 연구다.
 GPT-4를 통해 관찰 연구 (Empirical Research)를 재시도할 수 있는가? (결론 미리보기: 못 한다)
 관찰 연구는 데이터를 수집, 분석하여 결론을 도출하는 연구이다.
 소프트웨어 공학 분야의 관찰 연구의 예로는 오류의 생애 주기를 추적하는 연구, 코드 리뷰의 효과를 분석하는 연구 등이 있다.
-재시도라는 것은 기존 연구와 같은 방법을 다른 데이터에 적용하는 것을 말한다. 좀 더 구체적으로는 A 회사의 오류 생애 주기 데이터를 가지고 한 연구를 B 회사의 데이터에 적용하는 것이다.
+재시도라는 것은 기존 연구와 같은 방법을 다른 데이터에 적용하는 것을 말한다.
+좀 더 구체적으로는 A 회사의 오류 생애 주기 데이터를 가지고 한 연구를 B 회사의 데이터에 적용해보는 것이다.
 이 때, 올바르게 연구를 재시도하려면 먼저 기존 연구에 내재되었던 전제들을 이해하고, 또한 기존 연구의 파이프라인을 이해해야 한다.
 예를 들어, 풀 리퀘스트의 개수를 통해 개발자의 생산성을 측정하는 연구의 경우, 풀 리퀘스트의 개수가 개발자의 생산성을 반영한다는 전제를 깔고 간다.
 하지만 1인 개발자가 풀 리퀘스트 없이 개발을 한다면? 이런 경우를 고려하지 않으면 잘못된 결론을 도출할 수 있다.
@@ -245,7 +261,11 @@ GPT-4를 통해 관찰 연구 (Empirical Research)를 재시도할 수 있는가
 가장 큰 이유로 꼽히는 것은 소프트웨어 공학적 배경지식의 부족이다.
 예를 들어 풀 리퀘스트에는 수정된 라인의 정보가 따로 표시되지 않는다고 하거나, GitHub와 V8이 비슷하다고 하는 등 상식적인 수준의 정보를 잘못 알고 있다.
 
-사실 언젠가 대학원생이 하는 일을 인공지능이 하고, 대신 누가 인공지능을 얼마나 잘 지도하는지로 연구 실력이 갈리는 시대가 오지 않을까 상상해본 적이 있다. 인공지능이 못하는 건 사실 대부분의 대학원생도 처음에는 못하는 것들이지만 잘 가르치면 훌륭한 연구자가 되는 것처럼, 인공지능도 잘 가르치면 그럭저럭 연구를 할 수 있지 않을까?
+사실 이 연구가 흥미로웠던 이유는 언젠가 대학원생이 하는 일을 인공지능이 하고,
+대신 누가 인공지능을 얼마나 잘 지도하는지로 연구 실력이 갈리는 시대가 오지 않을까 상상해본 적이 있기 때문이다.
+인공지능이 못하는 건 사실 대부분의 대학원생도 처음에는 못하는 것들이지만 잘 가르치면 훌륭한 연구자가 되는 것처럼,
+인공지능도 잘 가르치면 그럭저럭 연구를 할 수 있지 않을까?
+막연한 상상을 해본다.
 
 
 <br/><br/>
@@ -254,8 +274,8 @@ GPT-4를 통해 관찰 연구 (Empirical Research)를 재시도할 수 있는가
 
 ### 재현 가능한 연구
 이번 Ideas, Visions and Reflections 트랙에 다음과 같은 두 논문이 있었다.
-- __Reproducibility Debt: Challenges and Future Pathways<sup>[9](#repro)</sup>__
-- __A Vision on Open Science for the Evolution of Software Engineering Research and Practice<sup>[10](#open)</sup>__
+- __Reproducibility Debt: Challenges and Future Pathways<sup>[10](#repro)</sup>__
+- __A Vision on Open Science for the Evolution of Software Engineering Research and Practice<sup>[11](#open)</sup>__
 
 이런 논문이 나오는 이유는 무엇일까?
 많은 연구의 결과가 재현 가능하지 않기 때문이다.
@@ -280,14 +300,19 @@ GPT-4를 통해 관찰 연구 (Empirical Research)를 재시도할 수 있는가
 재현 가능한 연구를 지향하고 또 연구 문화를 개선해가려는 연구자들이 받는 고통이 이렇게나 크다.
 
 그렇다면 재현 가능한 연구를 하려면 어떻게 해야 할까.
-A Vision on Open Science... 논문의 저자들은 여러 방안들을 언급하는데, 그 중에는 현재 아티팩트 배지 (Artifact Badge) 시스템의 개선이 있다. 많은 학회들은 아티팩트와 큰 상관없이 논문을 심사하고, 추후 아티팩트 공개 여부, 혹은 재현 여부에 의해 배지를 부여한다. 이 중 공애 여부에 대한 배지는 아티팩트를 공개 안 하는 것이 기본이고, 공개하면 특별히 더 잘한 것이라는 인식을 심어줄 수 있다. 따라서 아티팩트 공개를 원칙으로 하되 공개 여부에 의해 주어지는 배지를 없애고, 아티팩트의 품질에 따라 배지를 부여하는 것이 더 좋을 것이라고 한다.
+A Vision on Open Science... 논문의 저자들은 여러 방안들을 언급하는데, 그 중에는 현재 아티팩트 배지 (Artifact Badge) 시스템의 개선이 있다.
+많은 학회들은 아티팩트와 큰 상관없이 논문을 심사하고, 추후 아티팩트 공개 여부, 혹은 재현 여부에 의해 배지를 부여한다.
+이 중 공개 여부에 대한 배지는 그 존재 자체가 아티팩트를 공개 안 하는 것이 기본이고, 공개하면 특별히 더 잘한 것이라는 인식을 심어줄 수 있다.
+따라서 아티팩트 공개를 원칙으로 하되 공개 여부에 의해 주어지는 배지를 없애고, 아티팩트의 품질에 따라 배지를 부여하는 것이 더 좋을 것이라고 한다.
 
 나는 좀 더 급진적인 개선이 필요하다고 생각한다. 가장 강력한 제제 수단은 학회와 저널의 규정일 것이다.
 연구의 재현 가능성을 염두에 두지 않거나 심지어 숨기는 경우, 그 이유는 무엇일까?
 바로 출판을 빨리, 그리고 많이 하기 위해서이다.
 따라서 그 출판의 길목에 검문소를 설치하고 재현성에 대한 요구를 강화해야 하지 않을까?
 몇 가지 드는 생각이 있는데, 그 중 하나는 제보 시스템에 의한 종단 추적 심사 제도이다.
-심사 당시에만 재현가능하도록 아티팩트를 만들거나, 심사용으로만 제작된 아티팩트를 공개하는 것을 막기 위해 제보 시스템을 도입하는 것이다. 이 경우, 아티팩트 심사는 1년 간격으로 두 번 이루어진다. 즉 제출 시점에 한번, 1년 후 한번 이루어지는 것이다. 이때 후속 심사는 재현성을 의심하는 제보가 들어온 경우로 제한하여 심사의 부담을 줄일 수 있다.
+심사 당시에만 재현가능하도록 아티팩트를 만들거나, 심사용으로만 제작된 아티팩트를 공개하는 것을 막기 위해 제보 시스템을 도입하는 것이다.
+이 경우, 아티팩트 심사는 1년 간격으로 두 번 이루어진다. 즉 제출 시점에 한번, 1년 후 한번 이루어지는 것이다.
+이때 후속 심사는 재현성을 의심하는 제보가 들어온 경우로 제한하여 심사의 부담을 줄일 수 있다.
 다음에 학회에 참석할 일이 있으면 타운홀 미팅에서 건의해보고 싶다.
 
 
@@ -339,7 +364,7 @@ A Vision on Open Science... 논문의 저자들은 여러 방안들을 언급하
 
 
 ### 선방하는 한국
-우리나라는 제출 논문 수와 게제 논문 수 모두 6위를 차지했다.
+우리나라는 제출 논문 수와 게재 논문 수 모두 6위를 차지했다.
 
 | ![](https://lh3.googleusercontent.com/pw/AP1GczNO2r5kn-2V7gz31bz0brhAnvedfF2s2zHlmoVEXhhF78YVJqVCestDCLBihiGo4XAhqSPh1AtfRXm3yvxgnrZ1neaWrn-8eNNeYT3pSSm_azQhx42sAiU2ExY-7EgSI2n_WV70FK9F93mFbI8uzoFF=w1151-h863-s-no-gm?authuser=0) |
 |:--:|
@@ -358,7 +383,7 @@ A Vision on Open Science... 논문의 저자들은 여러 방안들을 언급하
 ### 감동적인 음식
 여태 참석한 학회 중 밥이 가장 맛있었다.
 점심은 매일 호텔 식당에서 먹었는데, 적당히 로컬한 음식들도 있었고 맛도 좋았다.
-미국에서 열린 보안 학회는 점심에 부리또 하나 주고 끝이거나 아예 안 줬었는데, 눈물이 날 뻔했다.
+미국에서 열린 보안 학회는 점심에 부리또 하나 주고 끝이거나 아예 안 줘서 눈물이 날 뻔 했지만, 여기서는 감동의 눈문을 흘렸다.
 뱅큇 음식도 현지 해산물 요리로 아주 푸짐했다.
 
 | ![](https://lh3.googleusercontent.com/pw/AP1GczPG7ct3bjC0dJzxDUuemPSw6q_IBP30Qcr0bX5hX9nzN5kQXhtlWBdynQamsCYtFV-QOk7_dRqAWBclPxO1fyVFHa6OuVEXRpsU644nVhofV19cKmakEP8xAssR2TikmhVSio9rWznyrxKQPNWeZl5B=w647-h863-s-no-gm?authuser=0) |
@@ -443,12 +468,13 @@ A Vision on Open Science... 논문의 저자들은 여러 방안들을 언급하
 ### 각주
 
 [<a name="evaldirfuzz">1</a>] Tae Eun Kim et al. "Evaluating Directed Fuzzing: Are We Heading in the Right Direction?" FSE (2024) \
-[<a name="omg">2</a>] Jiawei Li et al. "Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model" FSE (2024) \
-[<a name="build">3</a>] Jun Lyu et al. "Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations" FSE (2024) \
-[<a name="tbe">4</a>] Malinda Dilhara et al. "Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example?" FSE (2024) \
-[<a name="pac">5</a>] Neil Walkinshaw et al. "Bounding Random Test Set Size with Computational Learning Theory" FSE (2024) \
-[<a name="coverage">6</a>] Danushka Liyanage et al. "Extrapolating Coverage Rate in Greybox Fuzzing" ICSE (2024) \
-[<a name="llmfl">7</a>] Sungmin Kang, Gabin An, and Shin Yoo. "A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Localization" FSE (2024) \
-[<a name="llmemp">8</a>] Jenny T. Liang et al. "Can GPT-4 Replicate Empirical Software Engineering Research?" FSE (2024) \
-[<a name="repro">9</a>] Zara Hassan et al. "Reproducibility Debt: Challenges and Future Pathways" FSE (2024) \
-[<a name="open">10</a>] Edson Oliveira Jr. et al. "A Vision on Open Science for the Evolution of Software Engineering Research and Practice" FSE (2024)
+[<a name="aflgo">2</a>] Marcel Böhme et al. "Directed Greybox Fuzzing" CCS (2017) \
+[<a name="omg">3</a>] Jiawei Li et al. "Only diff is Not Enough: Generating Commit Messages Leveraging Reasoning and Action of Large Language Model" FSE (2024) \
+[<a name="build">4</a>] Jun Lyu et al. "Towards Efficient Build Ordering for Incremental Builds with Multiple Configurations" FSE (2024) \
+[<a name="tbe">5</a>] Malinda Dilhara et al. "Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by Example?" FSE (2024) \
+[<a name="pac">6</a>] Neil Walkinshaw et al. "Bounding Random Test Set Size with Computational Learning Theory" FSE (2024) \
+[<a name="coverage">7</a>] Danushka Liyanage et al. "Extrapolating Coverage Rate in Greybox Fuzzing" ICSE (2024) \
+[<a name="llmfl">8</a>] Sungmin Kang, Gabin An, and Shin Yoo. "A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Localization" FSE (2024) \
+[<a name="llmemp">9</a>] Jenny T. Liang et al. "Can GPT-4 Replicate Empirical Software Engineering Research?" FSE (2024) \
+[<a name="repro">10</a>] Zara Hassan et al. "Reproducibility Debt: Challenges and Future Pathways" FSE (2024) \
+[<a name="open">11</a>] Edson Oliveira Jr. et al. "A Vision on Open Science for the Evolution of Software Engineering Research and Practice" FSE (2024)
