@@ -204,7 +204,7 @@ __Unprecedented Code Change Automation: The Fusion of LLMs and Transformation by
 Transformation by Example이란? 기존 예제로 학습된 코드변화 패턴을 적용하는 것. 단순히 말하면 자동 리팩토링이다.
 이 연구는 LLM을 이용해서 더 유연하고 자연스러운 코드 변화 패턴을 적용하려고 하는 것.
 이 때, 리팩토링의 기본은 의미의 보존이다. 보존되어야 하는 의미의 단위는 그때그때 다를 수 있다. 
-정된 라인이 될 수도 있고, 함수가 될 수도 있다.
+라인이 될 수도 있고, 함수가 될 수도 있다.
 이 연구에서는 리팩토링 이후에 LLM이 생성한 테스트를 통해 원본 프로그램과 리팩토링된 프로그램의 동작이 같은지 검사한다. 
 
 아무래도 이 연구는 대상 언어가 파이썬이라서 가능하지 않았을까 하는 생각이 든다.
@@ -383,7 +383,7 @@ A Vision on Open Science... 논문의 저자들은 여러 방안들을 언급하
 ### 감동적인 음식
 여태 참석한 학회 중 밥이 가장 맛있었다.
 점심은 매일 호텔 식당에서 먹었는데, 적당히 로컬한 음식들도 있었고 맛도 좋았다.
-미국에서 열린 보안 학회는 점심에 부리또 하나 주고 끝이거나 아예 안 줘서 눈물이 날 뻔 했지만, 여기서는 감동의 눈문을 흘렸다.
+미국에서 열린 보안 학회는 점심에 부리또 하나 주고 끝이거나 아예 안 줘서 눈물이 날 뻔 했지만, 여기서는 감동의 눈물을 흘렸다.
 뱅큇 음식도 현지 해산물 요리로 아주 푸짐했다.
 
 | ![](https://lh3.googleusercontent.com/pw/AP1GczPG7ct3bjC0dJzxDUuemPSw6q_IBP30Qcr0bX5hX9nzN5kQXhtlWBdynQamsCYtFV-QOk7_dRqAWBclPxO1fyVFHa6OuVEXRpsU644nVhofV19cKmakEP8xAssR2TikmhVSio9rWznyrxKQPNWeZl5B=w647-h863-s-no-gm?authuser=0) |
