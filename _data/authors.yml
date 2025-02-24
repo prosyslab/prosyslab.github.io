@@ -96,3 +96,14 @@ Jaeseong Kwon:
     - label: "Home"
       icon: "fas fa-fw fa-igloo"
       url: "https://doitman.kr/"
+
+Bongjun Jang:
+  name: "장봉준"
+  avatar: "assets/images/members/bongjun.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:bongjun.jang@kaist.ac.kr"
+    - label: "Home"
+      icon: "fas fa-fw fa-igloo"
+      url: "https://bongjunj.github.io/"

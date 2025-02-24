@@ -57,6 +57,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/minsolpark
     email: minsol.park@kaist.ac.kr
 
+  - name: Bongjun Jang
+    name-korean: 장봉준
+    info: Master Student
+    photo: bongjun.jpg
+    homepage: https://prosys.kaist.ac.kr/home/bongjunjang
+    email: bongjun.jang@kaist.ac.kr
+
 alumni:
   - name: Changgong Lee
     name-korean: 이창공
