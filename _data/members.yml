@@ -64,6 +64,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/dongjaelee
     email: dongjae.lee00@kaist.ac.kr
 
+  - name: Minsol Park
+    name-korean: 박민솔
+    info: Master Student
+    photo: minsol.jpg
+    homepage: https://prosys.kaist.ac.kr/home/minsolpark
+    email: minsol.park@kaist.ac.kr
+
 alumni:
   - name: Jaeho Kim
     name-korean: 김재호
