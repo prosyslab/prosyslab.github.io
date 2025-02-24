@@ -29,20 +29,6 @@ phd:
     email: sujin0529@kaist.ac.kr
 
 master:
-  - name: Changgong Lee
-    name-korean: 이창공
-    info: Master Student
-    photo: changgong.jpeg
-    homepage: https://prosys.kaist.ac.kr/home/changgonglee
-    email: zackcglee@kaist.ac.kr
-
-  - name: Jaeseong Kwon
-    name-korean: 권재성
-    info: Master Student
-    photo: jaeseong.jpeg
-    homepage: https://prosys.kaist.ac.kr/home/jaeseongkwon
-    email: jaeseong.kwon@kaist.ac.kr
-
   - name: Geon Park
     name-korean: 박건
     info: Master Student
@@ -72,6 +58,23 @@ master:
     email: minsol.park@kaist.ac.kr
 
 alumni:
+  - name: Changgong Lee
+    name-korean: 이창공
+    info: Master Student
+    photo: changgong.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/changgonglee
+    email: zackcglee@kaist.ac.kr
+    year: 2025
+
+  - name: Jaeseong Kwon
+    name-korean: 권재성
+    info: Master Student
+    photo: jaeseong.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/jaeseongkwon
+    email: jaeseong.kwon@kaist.ac.kr
+    occupation: Rebellions
+    year: 2025
+
   - name: Jaeho Kim
     name-korean: 김재호
     info: Master Student
