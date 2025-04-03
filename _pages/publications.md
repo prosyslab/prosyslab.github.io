@@ -46,13 +46,13 @@ and {{ author }}
     [<a href="{{ site.baseurl }}/publications/{{ pub.slides }}">slides</a>]
   {% endif %}
   {% if pub.video != nil %}
-    <a href="{{ pub.video }}"><i class="fab fa-youtube" style="font-size: 20px; vertical-align: middle"></i></a>
+    <a href="{{ pub.video }}"><i class="fab fa-youtube" style="font-size: 18px; vertical-align: baseline"></i></a>
   {% endif %}
   {% if pub.code != nil %}
-    <a href="{{ pub.code }}"><i class="fab fa-github" style="font-size: 20px; vertical-align: middle"></i></a>
+    <a href="{{ pub.code }}"><i class="fab fa-github" style="font-size: 18px; vertical-align: baseline"></i></a>
   {% endif %}
   {% if pub.project_page != nil %}
-    <a href="{{ pub.project_page }}"><i class="fas fa-home" style="font-size: 20px; vertical-align: middle"></i></a>
+    <a href="{{ pub.project_page }}"><i class="fas fa-home" style="font-size: 18px; vertical-align: baseline"></i></a>
   {% endif %}
   </li>
 {% endfor %}
