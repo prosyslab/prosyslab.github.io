@@ -50,13 +50,6 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/dongjaelee
     email: dongjae.lee00@kaist.ac.kr
 
-  - name: Minsol Park
-    name-korean: 박민솔
-    info: Master Student
-    photo: minsol.jpg
-    homepage: https://prosys.kaist.ac.kr/home/minsolpark
-    email: minsol.park@kaist.ac.kr
-
   - name: Bongjun Jang
     name-korean: 장봉준
     info: Master Student
@@ -67,7 +60,7 @@ master:
 alumni:
   - name: Changgong Lee
     name-korean: 이창공
-    info: Master Student
+    info: M.S.
     photo: changgong.jpeg
     homepage: https://prosys.kaist.ac.kr/home/changgonglee
     email: zackcglee@kaist.ac.kr
@@ -75,16 +68,25 @@ alumni:
 
   - name: Jaeseong Kwon
     name-korean: 권재성
-    info: Master Student
+    info: M.S.
     photo: jaeseong.jpeg
     homepage: https://prosys.kaist.ac.kr/home/jaeseongkwon
     email: jaeseong.kwon@kaist.ac.kr
     occupation: Rebellions
     year: 2025
 
+  - name: Sujin Jang
+    name-korean: 장수진
+    info: M.S.
+    photo: sujin.jpg
+    homepage: https://prosys.kaist.ac.kr/home/sujinjang
+    email: sujin0529@kaist.ac.kr
+    occupation: Ph.D student at KAIST
+    year: 2024
+
   - name: Jaeho Kim
     name-korean: 김재호
-    info: Master Student
+    info: M.S.
     photo: jaeho.jpg
     homepage: https://prosys.kaist.ac.kr/home/oojahooo
     email: oojahooo@gmail.com
@@ -92,7 +94,7 @@ alumni:
 
   - name: Jongchan Park
     name-korean: 박종찬
-    info: Master Student
+    info: M.S.
     photo: jongchan.jpg
     homepage: https://prosys.kaist.ac.kr/home/jongchanpark
     email: jongchan.park@kaist.ac.kr
