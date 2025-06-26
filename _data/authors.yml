@@ -118,3 +118,14 @@ Jaehoon Jang:
     - label: "Home"
       icon: "fas fa-fw fa-igloo"
       url: "https://whoami.leehahoon.kr/"
+
+Dongjae Lee:
+  name: "이동재"
+  avatar: "assets/images/members/dongjae.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:dongjae.lee00@kaist.ac.kr"
+    - label: "Home"
+      icon: "fas fa-fw fa-igloo"
+      url: "https://duncan020313.github.io/blog"
