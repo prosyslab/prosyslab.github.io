@@ -107,3 +107,14 @@ Bongjun Jang:
     - label: "Home"
       icon: "fas fa-fw fa-igloo"
       url: "https://bongjunj.github.io/"
+
+Jaehoon Jang:
+  name: "장재훈"
+  avatar: "assets/images/members/jaehoon.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jaehoon.jang@kaist.ac.kr"
+    - label: "Home"
+      icon: "fas fa-fw fa-igloo"
+      url: "https://whoami.leehahoon.kr/"
