@@ -28,15 +28,15 @@ PLDI 첫 2일은 워크샵으로 시작했다.
 
 ### egglog 튜토리얼
 
-egglog는 equality saturation 워크로드를 위해 구현된 egg(https://github.com/egraphs-good/egg)와 Datalog를 통합한 프레임워크다.
+egglog는 equality saturation 워크로드를 위해 구현된 [egg](https://github.com/egraphs-good/egg)와 Datalog를 통합한 프레임워크다.
 equality saturation은 나의 관심 분야인 컴파일러 최적화에서 최근 많은 관심을 끌고 있는 기술이다.
-예를 들어, 최근 등장한 Cranelift 컴파일러(https://github.com/bytecodealliance/wasmtime/tree/main/cranelift) 는 e-graph를 사용해 컴파일러 최적화기와 코드 생성기를 구현해 컴파일러 구현에 새로운 방향을 제시하고 있다.
+예를 들어, 최근 등장한 [Cranelift 컴파일러](https://github.com/bytecodealliance/wasmtime/tree/main/cranelift) 는 e-graph를 사용해 컴파일러 최적화기와 코드 생성기를 구현해 컴파일러 구현에 새로운 방향을 제시하고 있다.
 튜토리얼에서는 egglog를 이용해 추론 규칙(Inference Rule, Deductive Reasoning)과 재작성 규칙(Rewrite Rule)을 선언하고 이를 통해 간단한 프로그램 분석기를 구현하는 방법, 코드 최적화기를 구현하는 법을 다뤘다.
-튜토리얼의 자세한 내용은 https://github.com/[egraphs-good/egglog-tutorial](https://github.com/egraphs-good/egglog-tutorial)에서 확인할 수 있다.
+튜토리얼의 자세한 내용은 [egraphs-good/egglog-tutorial](https://github.com/egraphs-good/egglog-tutorial)에서 확인할 수 있다.
 
 튜토리얼을 통해 e-graph가 정말 흥미로운 연구대상임을 다시 느꼈다.
 컴파일러 최적화기를 만들어낼 수도 있고, 프로그램 분석기를 만들어낼 수도 있다.
-e-graph의 적용 분야는 자동증명기, 프로그램 합성기, 그리고 새로운 재작성 규칙 발견(https://dl.acm.org/doi/10.1145/3485496)까지도 나아가고 있다.
+e-graph의 적용 분야는 자동증명기, 프로그램 합성기, 그리고 [새로운 재작성 규칙 발견](https://dl.acm.org/doi/10.1145/3485496)까지도 나아가고 있다.
 지금 내가 하고 있는 컴파일러 최적화 연구도 어떻게 e-graph의 지평을 넓힐 수 있을지 기대된다.
 
 ### PLMW
