@@ -129,3 +129,14 @@ Dongjae Lee:
     - label: "Home"
       icon: "fas fa-fw fa-igloo"
       url: "https://duncan020313.github.io/blog"
+
+Geon Park:
+  name: "박건"
+  avatar: "assets/images/members/geon.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:geon.park00@kaist.ac.kr"
+    - label: "Home"
+      icon: "fas fa-fw fa-igloo"
+      url: "https://re-st.github.io/"
