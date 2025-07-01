@@ -19,7 +19,7 @@ author_profile: false
 {% assign list_opened = true %}
 {% assign year_printed = pub.year %}
 {% endif %}
-<li>{{pub.title}}<br>
+<li><b>{{pub.title}}</b><br>
 {% for author in pub.author %}
 {% if forloop.last %}
 and {{ author }}
