@@ -13,7 +13,7 @@ classes: wide
 ## LA 도착
 미국에는 하루 일찍, 11월 6일 오후에 도착하였다. LA 공항의 성조기가 미국에 왔음을 실감케 했다.
 
-![](https://lh3.googleusercontent.com/pw/AP1GczMYDhf2G-o_39d33xMpKjc2VLK6wqd6vLv2ZE4YX6tGp2eeMsHFnecLaslwydjd4KRTDiec-OMld1w8dd1GQ29Ajukew5EsUWGDghCZC4Y4ZhS_OuvawVJtq6lnCBN9IpdNgIPPyuCNjCsEuzbkbcRm=w651-h868-s-no-gm?authuser=2)
+![](https://lh3.googleusercontent.com/pw/AP1GczPB0eaIkJirlyQCDeXQceCu2ocsTNHsfwpiUK0R83bHOdDOdmzxQ8jjKkoinh3mgxOOGjS_q4O4eimU-O1pKDx6j-SzUcxiUuLZTCqTvA4nq4DiZ3AxtwgfMNGIUsiacyK8qdagbv_2A7EIwqYvb-A=w651-h868-s-no-gm?authuser=2)
 
 도착한 날의 날씨는 무척 좋았다. LA 날씨라고 하면 흔히 상상하는, 맑고 파란 하늘, 강한 햇살이 우릴 맞아주었다. 그러나 장시간의 주행과 비행으로 모두 피로하였기에, 곧장 호텔로 향했다.
 
