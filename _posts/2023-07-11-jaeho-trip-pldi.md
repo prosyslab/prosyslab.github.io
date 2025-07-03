@@ -10,7 +10,7 @@ classes: wide
 ---
 
 
-| ![](/assets/images/trip/PLDI2023/jaeho/Together.png) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNgeg-XKNd4IsLvoaTsD8h5JfNRpn3OIMDFpkZGWu8278WQg8naBwK3FYHYsvJYe55muo_NuXp27orJjQHdfMlsAEiwGPceZRXINJ2OlyfV1Gg3o7pvPhsd68T969XItillXe2RNog4Ky7ssQMD6Cxo=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>학회에서 만난 반가운 한국인들끼리 한 컷</b>|
 
@@ -39,7 +39,7 @@ classes: wide
 많이 들을 수 있었다. 특히 허기홍 교수님의 포닥시절 연구실 사람들, 즉 UPenn의 Mayur Naik 교수님 연구실 사람들이라는 공통분모 덕에 어디서도 듣지 못할 흥미로운
 이야기들을 잔뜩 들을 수 있었다.
 
-| ![](/assets/images/trip/PLDI2023/taeeun/friends.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNZsISF-99zKQ4QSbDUcqtR1TyJB7ceOx9sRk8c5JfdKzeAWlONQZzyqt77SemWmy7qLbkKY3VUfhx9lYt2d4rE-LJ4qhy-_kA18zLlBZUHt5lXnBhKbP7ygAo5Ht5W27v3TmOXbC_uNPTiK5Gl9Ufy=w1080-h810-s-no-gm?authuser=2) |
 |:--:|
 | <b>왼쪽부터 Mayank, 태은님, 나, Jiani, Ziyang, 참고로 사진은 Jiani로부터 본인이 직접 전달받은 것이다</b>|
 
@@ -68,7 +68,7 @@ classes: wide
 굉장히 큰 회의장에서 진행되어서인지 발표하셨던 몇몇 분들도 긴장하여 말을 더듬거나 방언이 터지는 등 영알못에게 가혹한 환경이었던지라 시차 적응에 힘들어 하고 있던
 시점에서 감명깊게 이야기를 흡수하기에는 무리가 있었다.
 
-| ![](/assets/images/trip/PLDI2023/jaeho/Guy.png) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPIdhMYAAkwaDoW_gnwTDOKd0Tnojv3kOmsxMsGxbEb8eXbQoUq_69VLFkX6vCVP6kuzWor34Le_1dh6GP63wXIZ5hvMrKfyFyp9cFmPMpesWatKtWiMbibQuendGUj3abJsUXgR4j0dziMWkFjCceg=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>앞에서 세 번째 줄에 앉아 직접 촬영한 Steele의 모습. 우수에 찬 듯한 표정이다</b>|
 
@@ -95,7 +95,7 @@ PLDI 본 학회에서 특히 기억에 남았던 세션에 대해 소개하고, 
 
 ### CryptOpt: Verified Compilation with Randomized Program Search for Cryptographic Primitives<sup>[1](#cryptopt)</sup>
 
-| ![](/assets/images/trip/PLDI2023/jaeho/CryptOpt.png) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOGV2JMruo11BkzVTNxtCYVWIxl2EISNVe9hes2RWubInpLXpkhL-fgW9Y8bsgK9ZMXb4v7p_xY1L_YhgxauuXBKJeLhdATPD_fdBuufD185MDVICQ3vK_ozZVijq7yeB_gIr5GcjCAcV1zo5bHvalV=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>CryptOpt 발표</b>|
 
@@ -113,7 +113,7 @@ PLDI 본 학회에서 특히 기억에 남았던 세션에 대해 소개하고, 
 
 ### Scallop: A Language for Neurosymbolic Programming<sup>[3](#scallop)</sup>
 
-| ![](/assets/images/trip/PLDI2023/jaeho/Scallop.png) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOm4fIfJYA_vy4lC9_gHDWl-6beOWPO7tmHDk_E5xiprc0ADq9Jz24ZCbrUs3COwfdNyhwtr1gZsyfBWsSvIDe3TXmtgnZlamoEyfBy7dNJLeKlcuijXwg5avRZIZIFHCZ6ar-XjABpRJPsG-t54wTs=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>Scallop 발표</b>|
 
@@ -146,7 +146,7 @@ PLDI 본 학회에서 특히 기억에 남았던 세션에 대해 소개하고, 
 
 ### Better Defuctionalization through Lambda Set Specialization<sup>[4](#defunc)</sup>
 
-| ![](/assets/images/trip/PLDI2023/jaeho/Defunc.png) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMB_uZzNc_ZrnQ-8emYCkYSMISKJcqwhenLCpu2Z1bWewRENozh8cy9-PbMpEMxozcJy-jbbeb0UsaUP0yXDLUTrVWNsAn-rZbND0VPck6aEBknMrFNyCfyDk9rsCiqhdHw1WsqroAzELnUE_wBEzhz=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>Better Defunctionalization (이하생략) 발표</b>|
 
@@ -166,7 +166,7 @@ PLDI 본 학회에서 특히 기억에 남았던 세션에 대해 소개하고, 
 게 아니라, 정말 본인의 결과물을 자신있고 투명하게 공개한다는 느낌을 받아 신선했고, 또 내 연구도 떳떳하게 구현체를 자랑할 수 있을 만큼 예쁘게 코딩하고 싶다는
 욕심이 생기기도 하였다.
 
-| ![](/assets/images/trip/PLDI2023/jaeho/QR.png) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPqXcZxLPOogEadJnLO5IsmW3y0xEPQcsX_q_mpxZN7D-p9Qlt0hCoexfNZ-iMsNbH_FD_2eoIYowjc51app4mPOyI4_oyrz5qDqE_IItVbRNfTevAgoJTEDQd5iEJTuxdYHU8ZcaFOBiBm-ECNyZ0B=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>마지막 슬라이드에 본인들의 툴을 사용해볼 수 있는 사이트를 QR코드로 띄워놨다</b>|
 

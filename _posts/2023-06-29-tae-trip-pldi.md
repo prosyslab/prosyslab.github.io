@@ -9,7 +9,7 @@ tags:
 classes: wide
 ---
 
-| ![](/assets/images/trip/PLDI2023/taeeun/florida.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOOMr_7RGNBFl5AeHCe8yOD9xKIP6wg7G5v2I0ZzumkNHAipN5bRPlNZG4bUZJir9UpPOd_UhXi67fjeVO78FAB2C7YUwQYd6tHe3oXoEmq69MLzq6v861StmCp1r2zc9-plsq7dz2XYOhjoH0ahNEE=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>악어가 살 것만 같은 플로리다의 습지</b>|
 
@@ -75,7 +75,7 @@ Jiani와 Ziyang은 각각 5년차, 3년차의 박사과정이었는데 이미 �
 Mayank은 뒤에 나오겠지만 2저자로 참여한 논문이 최우수 논문으로 선정되었다.
 세계 곳곳에 이런 친구들이 있어야 더 자극을 받고 더 성장할 수 있을 것 같다.
 
-| ![](/assets/images/trip/PLDI2023/taeeun/friends.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNZsISF-99zKQ4QSbDUcqtR1TyJB7ceOx9sRk8c5JfdKzeAWlONQZzyqt77SemWmy7qLbkKY3VUfhx9lYt2d4rE-LJ4qhy-_kA18zLlBZUHt5lXnBhKbP7ygAo5Ht5W27v3TmOXbC_uNPTiK5Gl9Ufy=w1080-h810-s-no-gm?authuser=2) |
 |:--:|
 | <b>왼쪽부터 Mayank, 나, 재호님, Jiani, Ziyang</b>|
 
@@ -193,11 +193,11 @@ PLDI 뿐 아니라 POPL과 ICFP에서도 열리는 듯 했다.
 PLDI에서 사용한 두개의 세션룸 중 하나는 규모가 워낙 커서 2000명이 넘는 인원을 수용할 수 있었다.
 그래서 그런지 음향이나 화면도 굉장한 수준의 장비들을 사용했는데, 나중에 꼭 이런 장소에서 발표를 해보고 싶다는 생각이 들었다.
 
-| ![](/assets/images/trip/PLDI2023/taeeun/confMap.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczM-x8keQJI0Nf_yJPZ-F1rjgjunqY4xqIb_pa_O2gkctAyl2hen3eyiVmU15RQR2-bg_dRmUO3zqgQd3ldFTZMf0fa2Tf39mmIgVHRNcoGrGaVry9uboa-ggksk4LjAtnUqcwGzqExSCiVfTqNhHapz=w1066-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>굉장히 큰 학회장 지도. 숙소에서 학회장까지 15분이 걸린다.</b>|
 
-| ![](/assets/images/trip/PLDI2023/taeeun/confRoom.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPrjtxaeFPpA5lEP61qzSD-prWMBcjTNvbcsQbTGN7rgHPKc0VM8y5jo2ktx8vQY5Vv5ma89vWNthz_ddVvR6KoiyOGgFwTlka9WFWNa0aGFpSyZ5PKkFRuhz6hijs5Pwxvc4vh5TI2zNN575h2CzUG=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>굉장히 큰 학회장.</b>|
 
@@ -211,7 +211,7 @@ PLDI에서 사용한 두개의 세션룸 중 하나는 규모가 워낙 커서 2
 첫 장을 봤을 때는 재밌어서 웃었는데, 끝까지 그런 슬라이드일 줄은 예상하지 못했다.
 나름 페이지마다 페이지 번호도 손수 써가며 벤치마크 테이블까지 손수 그린걸 보고 참 대단하다 생각했다.
 
-| ![](/assets/images/trip/PLDI2023/taeeun/slide.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOnd6lKcxohBUoh9va03GKs7vXY6vNGg6d8ffm3YA30QQJ6wCV--p3M5j7YUUOvt6LN1H2t2lCx12iND9-L-Cwkn9l3Xe4kFZpv0KRUnq9iZ8bjehrxn171uU1m5Mj7FJG9uG57N_8ah3A6OFXEkfZb=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>요상한 슬라이드</b>|
 
@@ -226,11 +226,11 @@ PLDI 참가국 중 무려 3등, 5.2%를 차지해버렸다.
 이제 우리나라도 무시 못할 PL 종주국이 되었다.
 그 다음으로는 우리가 무시 못할 연구실이 되어야겠다.
 
-| ![](/assets/images/trip/PLDI2023/taeeun/pieChart.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOX7gpvt6OmQPOuYcG6i17wj1IWt2HoGonln8LTtHM4pzyqT6WO61dHr5W_NUVfckRXm5x3E5PyFdGeXHWkK1zPJUNNW5WzahD6uLVgVnsnzcKfSMNNHKO4rgFAby_lfAEwCIeC2NKMpBiJJz6URncU=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>한국인의 위상 1</b>|
 
-| ![](/assets/images/trip/PLDI2023/taeeun/koreans.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNgeg-XKNd4IsLvoaTsD8h5JfNRpn3OIMDFpkZGWu8278WQg8naBwK3FYHYsvJYe55muo_NuXp27orJjQHdfMlsAEiwGPceZRXINJ2OlyfV1Gg3o7pvPhsd68T969XItillXe2RNog4Ky7ssQMD6Cxo=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>한국인의 위상 2</b>|
 
@@ -250,11 +250,11 @@ PLDI 참가국 중 무려 3등, 5.2%를 차지해버렸다.
 학회에서 먹은 음식들은 가끔 한번씩 먹으면 맛있을 음식들이었다.
 양이 많고, 간이 짠 음식들이 많아서 그런 것 같다.
 
-| ![](/assets/images/trip/PLDI2023/taeeun/steak.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczObcREX8NZeoozD3-cfntYpNVJsjlvaQQuok7LcS9l5HPhMzXNbjW2KFBiHA6DCmXu2tE290Nr8QgSUESt0rlUTsZODSE4UOJHIX2vi7DIk7C6yAUvMrcaBC26q3MSGjZ9yzXk1euTsJWXllaQtsMbr=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>미국 스테이크</b>|
 
-| ![](/assets/images/trip/PLDI2023/taeeun/burger.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMiJqbR6d6YTzV2AE-645mJrbzewsG7t9-MVyuqrWohF8v9-Z_4AoSfBq4DlzuAcMu64a0y9k-E7tkwZ7HNpr-zp8GgLzSbTYq4opWFb-bRLcB7EQBHPhSaC9foTgavYVqm451tqaZtpwAKeKT4n9VF=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>미국 햄버거</b>|
 

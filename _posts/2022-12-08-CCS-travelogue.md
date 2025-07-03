@@ -34,7 +34,7 @@ img + em {
 그날은 장시간의 비행으로 피곤한 상태였기에 방에 들어가 짐을 풀고,
 호텔 레스토랑에서 근사한 식사를 한뒤 곧바로 잠에 빠져들었다.
 
-![](/assets/images/trip/CCS2022/wooseok/IMG_0549.jpg)
+![](https://lh3.googleusercontent.com/pw/AP1GczPv4JWy713M9JBHqeu1srEwMTkNM-USG40YzozHsPhQvqNJhA8B9V3z20CiKji3z4W_e-DVilem4g4odIX34koQp3fVmrGlnsQfAzwyBpAn8e5v2FIJtGFOcPLKxnXQQc6eTmjxmw-itvza9crgIsFiKQ=w1157-h868-s-no-gm?authuser=2g)
 _의미불명의 손동작_
 
 ## 11/7 (Mon)
@@ -45,7 +45,7 @@ _의미불명의 손동작_
 특히 시리얼을 편하게 먹을 수 있게 세팅되어 있던 것이 아주 마음에 들었다.
 미국 시리얼은 왠지 모르게 한국 시리얼보다 더 단맛이 나 자꾸자꾸 먹고 싶어지는 맛이었다.
 
-![](/assets/images/trip/CCS2022/wooseok/20221107_074107.jpg)
+![](https://lh3.googleusercontent.com/pw/AP1GczMiBiMya_lD2I0Be077QVyXkM71Owm2JepIz3Tj3wZJjJVVeECsjI3vBPkF2--w8ptoXLBETml__cTggtjWaTA2gtRgx78tJa2mrlk4Kf00Y6SKmYcV66TXjgP_sYhiu_UvT94Gp4u1neFfjjyQXZ0=w1157-h868-s-no-gm?authuser=2)
 _매일 아침을 이렇게 먹을 수 있다면 얼마나 좋을까_
 
 그 후 호텔에만 계속 있기도 뭐해서 점심도 먹을 겸 근처를 돌아다녔다.
@@ -56,7 +56,7 @@ _매일 아침을 이렇게 먹을 수 있다면 얼마나 좋을까_
 주문서를 보니 소의 혀라고 적혀있었다.
 소의 혀는 대체 어떤 맛일지 궁금해하며 먹었더니 생각과는 다르게 굉장히 부드럽고 야들야들해서 맛있었다.
 
-![](/assets/images/trip/CCS2022/wooseok/20221107_135541.jpg)
+![](https://lh3.googleusercontent.com/pw/AP1GczO9gmVssAnBKUfoxTiGHzWhAHzaIIb7K1nId0ZWLWLOuc4zUP6Bdm-fCVL_eKITvVb7wPzwSNcgle9U_O7nz8rSwrwvV00oKzSopk582RFRuOe18f1RsCrXa7YtMItXXjA6aBnC4lwqnEACGj-02YQ=w1157-h868-s-no-gm?authuser=2)
 _입에서 살살 녹는 우설 엔칠라다_
 
 저녁에는 그래도 미국까지 왔는데 스테이크를 한번 뜯어봐야 할 것 같아 근처에 있는 고급 스테이크 집으로 향했다.
@@ -68,7 +68,7 @@ _입에서 살살 녹는 우설 엔칠라다_
 비록 100달러를 쓰긴 했지만 교수님과 연구실 동료들도 맛에 대해서는 이견없이 인정했기 때문에,
 근처에 가게 된다면 한번쯤 먹어볼만한 가치가 있다고 생각한다.
 
-![](/assets/images/trip/CCS2022/wooseok/20221107_180935.jpg)
+![](https://lh3.googleusercontent.com/pw/AP1GczN7AyQHeBJ6IcVRQuAB8qbZha63apGdq2s20Vya-QSUpH_4YeOGgUYA7xguds164jIzBFFSYvibSj80vq2RSTehLrOThWyMz6t5Jov3O7rmi6VG8WHZgfFjRxOqJoHAbXmI5Fp9rTfK3s9vFZ3Er2Q=w1157-h868-s-no-gm?authuser=2)
 _드셔보신 분들의 칭찬세례!_
 
 ## 11/8 (Tue)
@@ -106,7 +106,7 @@ _드셔보신 분들의 칭찬세례!_
 큰 문제는 아니었지만 한국어로 했다면 완벽하게 대답할 수 있었을 질문을,
 미흡하게 대답한 것이 아쉬웠고 질문자분께도 미안한 마음이 들었다.
 
-![](</assets/images/trip/CCS2022/wooseok/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(1).png>)
+![](<https://lh3.googleusercontent.com/pw/AP1GczMkX0IwLVRa717PboP7hcM1xHE-Gwp7Jo7mupno-EwosxtVqCgJBq144Fl_d94-ztDDSZflYzG_HpANOrpUUh9WbqAGIkGT9v1kVsk87LmvDC2egETYmUl5XHwIrZlRG9Bf3GViVOdqYsmco730BVvb=w1543-h868-s-no-gm?authuser=2>)
 _화난 거 아닙니다_
 
 발표가 끝난 후에는 학회 측에서 제공하는 저녁 연회에 참석했다.
@@ -115,7 +115,7 @@ _화난 거 아닙니다_
 연회 도중에 Best Paper를 비롯한 각종 상에 대한 시상이 있었는데,
 10년 전 발표된 논문 중 보안 분야에 큰 영향력을 끼쳤다고 여기지는 눈문들에 주는 상인 Test-of-Time Award가 가장 인상깊었다.
 
-![](/assets/images/trip/CCS2022/wooseok/IMG_3744.JPG)
+![](https://lh3.googleusercontent.com/pw/AP1GczNtmQaoLNfDPIkH77XxUykQ0R5HM79HPauFoaVYiBmYo_S1p-gQM4KQDyMTdZoYcvBLQHhnLmgGZgF3as-QLiJnHdd2Un6QUkASRaiWsuLOA1lPiF3iz-8IQop5UXskgLNL9rKevwHpWUWYoodbSe_1=w1157-h868-s-no-gm?authuser=2)
 _초코파이를 먹을 생각에 신난 사람들_
 
 ## 11/10 (Thu)
@@ -135,7 +135,7 @@ _초코파이를 먹을 생각에 신난 사람들_
 그 후, 점심시간에는 여러 연구실 사람들이 함께 모여 교수님의 TRACER 발표를 들었다.
 USC 교수님들과 학생들이 발표에 적극적으로 관심을 가져주고, 날카로운 질문들을 많이 해주셔서 나 역시 재미있게 들을 수 있었던 것 같다.
 
-![](/assets/images/trip/CCS2022/wooseok/IMG_3853.JPG)
+![](https://lh3.googleusercontent.com/pw/AP1GczNonBtovIyNwt1oxJIAJ-eiAyoHXYHxYN2baKEusIcmB1d3oqJLOTN82HziWgzhlX2BEaut8PRhTiQ4XUEVWukKxnPOlk2bCwxqVmM8Nc2gAQ49jfUcauRsHAUXX7ds4wbToRR4iT8-K8vDaLCYNVE7=w1157-h868-s-no-gm?authuser=2)
 _교수님을 그윽한 눈빛으로 바라보는 Mukund 교수님_
 
 USC에서 교수님들과 많은 얘기를 나눴던 것도 정말 좋은 경험이었지만,
@@ -147,7 +147,7 @@ USC에서 교수님들과 많은 얘기를 나눴던 것도 정말 좋은 경험
 그 모습이 마치 하이틴 드라마의 한 장면을 보는 것 같아,
 나 역시도 한 명의 엑스트라로써 거기에 참여한 기분이었다.
 
-![](/assets/images/trip/CCS2022/wooseok/20221111_170556.jpg)
+![](https://lh3.googleusercontent.com/pw/AP1GczOanvgAt28zCSXobH6KRpBfSjJ25fZIYF89aWiWwa-E-3W_GeyDDgnsavQyg9cOMUTcCBxCtdm2AIeDDSKlngdOWDW5wnPV8A6paMEsLMQ-Aaz7eVCXWbCqm-q9EVhfFCocZRgoeY-l3aFEt3COgpI=w1157-h868-s-no-gm?authuser=2)
 _드라마에서 튀어나온 것 같은 시계탑_
 
 그렇게 USC에서의 일정이 모두 끝나고 드디어 우리는 집으로 돌아가는 비행기를 타기 위해 공항으로 향했다.

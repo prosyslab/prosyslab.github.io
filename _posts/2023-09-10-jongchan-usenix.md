@@ -22,7 +22,7 @@ classes: wide
 
 # 첫째 날
 
-| ![](/assets/images/trip/SEC2023/jongchan/airplane.jpg) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOG-HLyOhRsPCKv1-N1dPHybNj0gnCpNyj-RQ90hBeuU89kvQwLTtpaX7FZdZVN4E_vS-X59Ta5dEhk5MFhEUxsvBGGYxY9nsgEeTXCGpiEVdlsBtEz_FYh2NRbzQ6xJzWPJSG3loylGNQasKQhw9Vb=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>오랜만의 비행기 탑승에 신나서 찍은 사진</b>|
 
@@ -35,7 +35,7 @@ classes: wide
 이어폰도 전혀 소용이 없었다. 나는 이 때, 다음번 부터는 꼭 귀마개를 가지고 가야겠다고 다짐하게 되었다.
 
 
-| ![](/assets/images/trip/SEC2023/jongchan/hotel.jpg) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOLlsdJlRN-HDYdGQ-VUG5FZUBh27hhYa12BiMrgTyWqFORqVsdgJdU791WYo7kCBCNt4L6BY6GKYrQQSE9zTfHd8yMiQJr39Se4zJSZFdB4czSZoXKHm_1C-W-ul92cWuLmxbmKm0ztpDscGDBOuo_=w1302-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>우리가 묵었던 호텔이자 학회가 열린 장소</b>|
 
@@ -47,7 +47,7 @@ classes: wide
 여러 기념품 샵을 둘러보면서 디즈니의 다양한 기념품들을 살펴보았다.
 아쉽게도 내 마음에 드는 물건은 그곳에는 없었다.
 
-| ![](/assets/images/trip/SEC2023/jongchan/disney.jpg) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOl93vv51U7mNLWZwTCnwHXkbyp3Frqf6THX2x5Y8sXoAf3YzTqcQmxGG8vTqwNxqO7q9WFcodc1PJJqtjToNgH2cXBKhDzZEvhKBFy4B22uyhJN_bXzh2hm7_CcyT3Gwq-lwPAO-1p8TopcBtfEN_7=w1302-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>애너하임의 디즈니 랜드</b>|
 
@@ -59,7 +59,7 @@ classes: wide
 
 # 둘째 날
 
-| ![](/assets/images/trip/SEC2023/jongchan/usenix.jpg) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczN1Kl7k-2GwIDheSsypjYz-xPCs9vDJxMTte1bvSKnK4VqFGuO0qJEeKD_cKMk13OU4-ACfJxrZ5H4roLg2xzP6J77Q_IneXA_HCUQShZuxcpWZcYCwomzoITOXBnLyqzGbOduKWNRIoyNrlqZl8Of_=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 
 드디어 학회가 시작되는 날이 밝았다.
@@ -82,7 +82,7 @@ USENIX는 보안 분야의 저명한 국제 학회로, 보안과 관련된 매�
 다행히, 이 날 태은님의 발표는 무사히 마무리 되었다. 그 뿐만 아니라, 내 기준에서는 성공적인 발표였다.
 아직 1저자로서 논문을 아직 발표해보지 못한 내 입장으로서는 한편으로는 부럽기도 하였다.
 
-| ![](/assets/images/trip/SEC2023/jongchan/lunch.jpg) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOMl6Z_cW4Os5sRfw62VzMZ_owin3mGlDL5xq6UhuGVoJQeRr9PzXsai4guom4XyYMspYRV6qwFhUbr_qk3hNB60fwkSAvwjFzd-22ej0wplitqHdMNsg8azYWWtg7P7L570fdzsJ_eMSORnMr86_wg=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>학회가 제공한 유일했던 점심</b>|
 
@@ -112,7 +112,7 @@ USENIX는 보안 분야의 저명한 국제 학회로, 보안과 관련된 매�
 안타깝게도 교수님은 몸상태 때문에 먼저 한국으로 귀국하게 되었고, 마지막 날은 연구실 동료들과만 보내게 되었다.
 우리는 비행기를 타기까지 남은 시간동은 주변 관광을 다녀왔다.
 
-| ![](/assets/images/trip/SEC2023/jongchan/beach.jpg) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNhDlEn42uU6Jq7tLpF7qxUumAmdAxrd-R3y3FDbkVPMzEqgp6a1hl09gzPIjP-VYbLQDqbP22Fl88ao-4Z7iAt4NBrFaVt_iZUxBWLOE6hWQ74C07v56tBkydu5INBBCnFRO72cMyDfNgvUoCHGukj=w1302-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>산타모니카 해변의 우리들</b>|
 

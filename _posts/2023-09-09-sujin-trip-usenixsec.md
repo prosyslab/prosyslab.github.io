@@ -17,11 +17,11 @@ USENIX Security 2023이 8월 9일부터 11일까지 총 3일간 미국 Anaheim�
 # 8/8 (Tue.)
 모두가 좋은 상태로 학회에 참가할 수 있게 학회 시작보다 하루 일찍 미국에 도착하는 일정으로 출발했다. 처음 경험하는 12시간이라는 장시간 비행이 매우 걱정되었지만, 외부 전경이 꽤나 아름다워서 걱정했던 것에 비해 좋은 상태로 미국에 도착할 수 있었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/sky1.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczN7g4ikj631F-02uwDkZyR6NaY9eu3mctG4V76g7vs8LtAx4mzm7-Nl1vozxXz-ObdFajd7DjKq2-lCoervdvjcQoJc_lwy-ztH4NWHwYAwvW7gy0wLU1gsB_Brxbzx4fjOwfxccN42qeZN6QsuOSfw=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>구름위를 둥둥</b>|
 
-| ![](/assets/images/trip/SEC2023/sujin/sky2.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczM5JgEH7CmmhPBYM3eXwqHjMLd5EzlixzHeJWitDEqrN2q2tkLkiqA4AcDUXxlk_srG_HHrwtPgFIYjf44oVT9X5X53OgIDkPjBQJf4s06XZSvS5FNR1b4eLFcUVUqEz_1tWyhPjyPkvDGjBgbx9lmF=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>하늘에서 본 노을</b>|
 
@@ -29,19 +29,19 @@ USENIX Security 2023이 8월 9일부터 11일까지 총 3일간 미국 Anaheim�
 
 숙소에 들어가서는 잠시 정비 시간을 가진 후, 근처에 있는 디즈니랜드에 갔다. 마침 디즈니 100주년을 맞이하여 디즈니랜드가 화려하게 꾸며져 있었다. 입구에는 은색의 미키마우스 조형물이 설치되어 있었는데, 꽤나 귀여웠다.
 
-| ![](/assets/images/trip/SEC2023/sujin/micky.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczM0pntEIDP31ed1Vgt5BFnSyA6jhulbSvjS32dvmjMY-IvjvWN9DOID7ttdDRHaGyRXGoKIr-YsNtI0kxbnkPDFOtSzowe8mppUo_V_juWtGALSTdQaln5FttnPpb355DcgQA7g8A5Gbau5pGynNI0K=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>100주년 미키마우스</b>|
 
 저녁에는 교수님께서 미국에 계실 때 종종 가셨다는 **Ruth's Chris Steak House**에 갔다. 이제까지 먹어온 스테이크들과 비교도 안되게 너무나도 맛있어서 고기들이 사라져가는게 너무 아쉬웠다. 이곳에서 학회 참가 기간동안 처음이자 마지막으로 단체사진을 찍었는데, 직원분들이 고기가 잘 보이게 세팅도 도와주셨다.
 
-| ![](/assets/images/trip/SEC2023/sujin/everyone.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNxIO9eW1OPLeXequjC4LiBdsxDDQUBOWdSQfl5qMtakeAwJiJFYy6dDoZqCQSkHdJJfo8Eu-4VgU-PzAyTCwLRjZ2OZNpySg33xnhkqrg3PUWwmvxViihAJ_fqABaPcM_dDK2huNRrmIjog8S8TsoH=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>단체사진. 나름 고기도 강조된 사진</b>|
 
 <br/>
 
-| ![](/assets/images/trip/SEC2023/sujin/steak.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOq29zAjCDxKFBqWP1Qsi9-RuVLfUvQS95D_crcdQAuJIk6VrJoWQ-JlIv2h8phEdAkJnx3D_JTD3H4L72ZAd6nRu8Awo7yb1x3ylAz9yrEZaW8C4ztUbE69wnG_eRqmC-SAOdBe121UZninz4xdvWl=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>고기 확대 사진</b>|
 
@@ -58,7 +58,7 @@ USENIX Security 2023이 8월 9일부터 11일까지 총 3일간 미국 Anaheim�
 위와 같은 조건을 만족하면 녹화한 영상을 통해 피해자가 입력한 자판을 추측할 수 있게 된다. 자판 추측에는 기계학습을 사용하였으며, 강화학습을 통해 영상으로부터 자판을 학습한 후 DNN 모델을 통해 입력한 자판을 추측한다.
 이 연구에서 배운 것은 '나쁜 마음만 먹으면 무엇이든 할 수 있겠구나.' 라는 것이었다. 누군가에 의해 몰래 촬영되고, 내가 입력한 자판까지 유추될 수 있다니 정말 무서운 세상이다라는 생각이 들었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/presentation1.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNXgfdeghEpASeOvQKaMiJs44WCpwS_--eCW5-mH21TOtTjrQ_xaHytc55RloBeECnDFpjQDxUpTDBcT3KUGURqC4N-_wWl5XxGucOMnXfwBKf0bwEr9KqtpruCkgXbY5sMeuynwUg0ByXNQRuQe7wd=w1560-h699-s-no-gm?authuser=2) |
 |:--:|
 | <b>안전하려면 가리세요</b>|
 
@@ -78,13 +78,13 @@ USENIX Security 2023이 8월 9일부터 11일까지 총 3일간 미국 Anaheim�
 
 이 연구는 지향성 퍼징의 성능을 높이기 위해 대상 지점과 관련된 코드 부분들만 선별하여 퍼저에게 영향을 줄 수 있도록 하는 아이디어를 가지고 진행한 연구였다. 기존 지향성 퍼저들과 다른 방식의 피드백 점수 산정 방식을 제안하며, 기존 지향성 퍼저들보다 빠르게 오류를 재현하는 퍼저를 제시하였다.
 
-| ![](/assets/images/trip/SEC2023/sujin/taeeun.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczN8OmdVd1omDMeC8Iex6satQQcF72OIN44t4K2BvQzC0Ot26pY_NZlp1Kh3FuQp7Lxxz4JZqiFA0pRdzdTx3UDhH6qCvlX2w4oH_k6mF8_m27-WCyJd-ZfJtZw9IFSZ2kpUW2XfX6UGTq7Myz3kcsQy=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>발표하는 태은님</b>|
 
 두번째 날의 학회 일정이 끝나고, 저녁으로는 맥도날드의 빅맥을 먹었다. 한국에서도 먹어보지 않은 빅맥을 현지에 와서 처음 먹게 되었다. 연희님에게 감자튀김은 후추와 먹는게 맛있다는 정보를 듣고 바로 실천해서 햄버거와 맛있게 먹었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/mcdonald.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNL-DeDHLvG7XBGtR8zMNsexgQzq-DdAvwYU1VK4SppLn1O9vQbZvWFv6c4POPwMH7tNYXbCWLEhqAU8TLn06qdKSpsbPXSWiwhT0uiotOsKc7XffvdjqMZi70uTMVU_orKTHqBZSZ_-pllYKBkrAFD=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>후추가 뿌려진 감자튀김</b>|
 
@@ -95,25 +95,25 @@ USENIX Security 2023이 8월 9일부터 11일까지 총 3일간 미국 Anaheim�
 <br/>
 학회가 끝나고 디즈니랜드에 방문했다. 화려한 퍼레이드와 불꽃놀이를 보러 방문했는데, 생각보다 시간이 남아 놀이기구도 몇 개 탔다.
 
-| ![](/assets/images/trip/SEC2023/sujin/whale.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNeLZ1B9iDA54O2ykLsl4MTI8wqtZvfhEAWujac1ZaRj2038cZy0eR7P9bo6gd5JvVRv72PZxTO6bjfkkisTnu54ynt5yh0gioMU_344R8YilDsHPYQJ7wjvjVcxq-vXGwhkTh45U3eg5M8mkyd1tw1=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>고래 입으로 들어가서 디즈니 미니어처 구경</b>|
 
 디즈니랜드에 가면 꼭 봐야하는 **디즈니 성** 앞에서 연희님이랑 사진도 찍었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/two.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczP_cB4v-BoAAk6R3MmKi1UzcShzZnSVxROm-sFIrHgfysuaehXO5OPAZhgsbEXJ7ZQZ2SQ9Nxu2DZ5b9qlWiXJZQq4JcRncUtv6GNJM6Z9a_DuEFFerGlypACnQ0CRr1DbS8l2Jbbc5ja0eQYWUfEI-=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>찰칵</b>|
 
 퍼레이드가 6시 30분 시작이어서 자리를 잡고 15분간 이루어지는 퍼레이드를 구경했다. 시작하자마자 마음이 울렁울렁하더니 동심이 살아나는 것 같은 기분이 들었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/moana.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPOeEg_SWNY1dUdZLh3i5fRGg_AtRQRW95evmbyqlacU3pbVd2fccm3mxLvUBed--zcL3HxO_z6YS9hm5B2VKAU46Nww2itWtWGsJ-g_PbAvJObs-DInLvCyvEvLaTSth6J1_YjlqP-KZhrMFbhRNkQ=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>모아나</b>|
 
 이후에는 자유롭게 돌아다니다가 불꽃놀이 시작인 9시에 디즈니 성 앞에 자리를 잡았는데, 아쉽게도 바람때문에 불꽃놀이는 보지 못했다. 그래서 대신에 예쁜 디즈니 성의 야경 사진을 얻었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/castle.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPQzI2EUDDeE_x4UVsjldleWQp-aZB3Azvviz1-3f9MBAZWvn5pbcsR-VVkvCw--G-J3HCGgmTA4weF7eHQf9mNADc4gN0ApRxqLLl7LwK2w8YdPceaC8709TOzbqOOahwAQxMKawbni-Redh06kgr4=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>디즈니 성</b>|
 
@@ -123,19 +123,19 @@ USENIX Security 2023이 8월 9일부터 11일까지 총 3일간 미국 Anaheim�
 한국으로 돌아가는 날, 산타모니카 해변과 게티 센터에 방문했다.
 게티 센터에서 잔 폴 게티 (Jean Paul Getty) 가 소장하고 있던 그림과 조형물들, 그리고 아름다운 풍경을 구경할 수 있었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/getty1.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMgqhUf3LiSf4ugdyxbl7PaVD_ABzWPH7ftw62v_paTCAqxD3dInGLB1YsqPuoOJCZ5YmuCazj-NZvx8h2B0IgA2LjlOXMh7MQf0v5H3LXnitopw7zCZggX51t1daGNvKIKwfbSnJRuodF1HFdFvsxD=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>물이 졸졸</b>|
 
 <br/>
 
-| ![](/assets/images/trip/SEC2023/sujin/getty2.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNuRb-d0Du4aVsrd_ntcO2HPurTPJ8ei36yKYMi0MLX_nUvFAS-dtXWoTSBu0z8ThLDXAD6F-8tD3PSKNrrDM6q7fokoNoM1ICNvnDBdCfnsO4cZBeAcub97RWkEoJsBy1S1sNgiq8C2a5nIjaIYDSi=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>강아지 모양 구름</b>|
 
 그리고 산타모니카 해변에서는 일몰을 볼 수 있었는데, 저녁하늘이 이렇게나 아름다웠다는 것을 새삼스럽게 느낄 수 있었다.
 
-| ![](/assets/images/trip/SEC2023/sujin/santa1.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPLnFS98BW85do548Faj1UCnYWxoJYY6sfvVYOPChOFHv4A5iENDc1HMREWUhhpk5d0f8bsFpymwiSUKqHP_TpLJKXtM6TAiOZqP6GsamjwIZtSDxY3lBT-xC5ciAlgxYyfme2naBcfnoW0gJf9C00i=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>산타모니카 해변의 일몰</b>|
 

@@ -13,23 +13,23 @@ classes: wide
 ## LA 도착
 미국에는 하루 일찍, 11월 6일 오후에 도착하였다. LA 공항의 성조기가 미국에 왔음을 실감케 했다.
 
-![](/assets/images/trip/CCS2022/seungwan/IMG_7494.png)
+![](https://lh3.googleusercontent.com/pw/AP1GczMYDhf2G-o_39d33xMpKjc2VLK6wqd6vLv2ZE4YX6tGp2eeMsHFnecLaslwydjd4KRTDiec-OMld1w8dd1GQ29Ajukew5EsUWGDghCZC4Y4ZhS_OuvawVJtq6lnCBN9IpdNgIPPyuCNjCsEuzbkbcRm=w651-h868-s-no-gm?authuser=2)
 
 도착한 날의 날씨는 무척 좋았다. LA 날씨라고 하면 흔히 상상하는, 맑고 파란 하늘, 강한 햇살이 우릴 맞아주었다. 그러나 장시간의 주행과 비행으로 모두 피로하였기에, 곧장 호텔로 향했다.
 
 호텔은 LA의 Omni Los Angeles 호텔로, 금융 회사의 빌딩들이 즐비한 도심과 조금은 정겨운 구도심의 경계에 위치했다. 이 두 지역은 1901년에 만들어진 엔젤스 플라이트라는 케이블카로 연결되어 있는데, 지대간 고저차가 꽤 있어 영화 기생충을 연상시키기도 했다.
 
-![](/assets/images/trip/CCS2022/seungwan/IMG_7509.png)
+![](https://lh3.googleusercontent.com/pw/AP1GczO96umXwzuWWzBQVQOqoiAvFncvsg5YbTrlF_4CRc74slwuBKVu5SvcjEiVx6j1QWVUS3fw5zPQJJ1eJ8N3Hyx837iB_dg6zezLDd6oSTRKQPkBWChub55GyQccDvPuX_qsyDbUVXw234Fc5L3mdD0=w651-h868-s-no-gm?authuser=2)
 
 객실은 해질 무렵의 풍경이 인상적인 곳이었다.
 
-![](/assets/images/trip/CCS2022/seungwan/IMG_7569.png)
+![](https://lh3.googleusercontent.com/pw/AP1GczMNehdGrqAchfUbIsUoSN7p5oJ1TpNkMVDGyJvr_UgHwE2EJVgmQFB9ah8X5UXmszHdsAI7hZsNOsqk-1059D1SakuLBJICKo5f3eQzzYta4cwJaByJssFgPadgbJF7-EYPBhX9no1Ry6RUAif29y8=w651-h868-s-no-gm?authuser=2)
 
 ## 학회 참석
 
 학회는 월요일과 금요일은 워크숍, 화요일부터 목요일까지는 본 행사로 구성되었다.
 
-![](/assets/images/trip/CCS2022/seungwan/IMG_7499.png)
+![](https://lh3.googleusercontent.com/pw/AP1GczPHONMKoY74jDDA8STwLfWwldjhXeozRh7lnxVUHCmi_YiV9WqN3JavaBxeVau8coBgNL_e85PDnzIebstu6ZXa4ot2iR0IWx5unpHwQsCPqS0ndlCWBnI4nQ9J59Na0tTw1VfNA6AHZu6nryQw2og=w651-h868-s-no-gm?authuser=2)
 
 
 보안 학회이다보니 분야가 넓어 흥미롭게 들을 수 있는 세션이 많지는 않았고, 퍼징 세션과 소프트웨어 취약점 탐지 세션을 집중해서 들었다. 이중 관심있게 들은 발표를 정리해본다.
@@ -60,15 +60,15 @@ classes: wide
 ### TRACER: Signature-based Static Analysis for Detecting Recurring Vulnerabilities<sup>[4](#Tracer)</sup>
 
 같은 연구실의 우석님 발표였다. 연구의 아이디어는 과거 버그들의 정보를 활용하여, 정적 분석 결과의 품질을 개선하는 것이었다. 국내 워크숍 및 내부 세미나를 통해 우석님의 발표를 숱하게 들었는데, 개인적으로는 이번 발표가 가장 좋았다.
-![](/assets/images/trip/CCS2022/seungwan/IMG_7545.png)
+![](https://lh3.googleusercontent.com/pw/AP1GczPWsn2C69JaMV4XBuINVD5T_x-HdfPJBFjPpiqOVcyAGbyMtUagzbjZmDUpPwIwZESgSEdrZDVUO-Yq_BrmQINuXZFplkjNI1DltOxl2b3uLbudCIWplKRgAdOG4kquf5vw1AF1peUmK7bGru6Kyr-V=w1157-h868-s-no-gm?authuser=2)
 
 프로그램을 요약 해석하는 정적 분석기는 많은 오탐을 동반하게 된다. 그래서 규모가 큰 프로그램에서는 수천 개의 알람이 발생하는 것이 다반사이다. 이 연구에서는 과거 버그들에서 트레이스를 추출하고, 이와 비슷한 트레이스를 갖는 알람들에 우선 순위를 부여함으로써, 유사한 버그들의 탐지를 돕는 방법을 제시했다.
-![](/assets/images/trip/CCS2022/seungwan/IMG_7547.png)
+![](https://lh3.googleusercontent.com/pw/AP1GczOLq-e9-I-4UyPfoZUE5-P_z0jOCdDJunu4G0UfxSQTq4-W8c0kbxLj146XrO6YcjtFMsog1vDQl1hJbJozEHbCzUfeF5kD36R-IL9WYkk5i7t2EXMbKao5hC0rULnuavuoNWghsErtHvvCxEdHnms=w1157-h868-s-no-gm?authuser=2)
 
 ## USC 방문
 
 학회 마지막 날인 금요일에는 교수님의 친구이신 Mukund Ragothaman 교수님을 만나고자 USC에 방문하였다. 약속 시간보다 일찍 도착하여 학교를 잠시 둘러볼 시간이 있었는데, 빨간 벽돌로 지어진 건물들이 인상적이었다.
-![](/assets/images/trip/CCS2022/seungwan/IMG_7581.png)
+![](https://lh3.googleusercontent.com/pw/AP1GczMnyq1WvLWKLZ8aV-XmkthkC_NAyRKxsHduoy9_FP94nA_-t3mSkqbDJuFYAvQ4WE4Q2oIFlY5wcujtinnHrL3Z7FHUuoj-FFVWL_jiPsUNOsdggadeTtPVAqknyqUa6jEwoyb6EWAZ9yNnv-SJyKo=w651-h868-s-no-gm?authuser=2)
 
 USC에서의 일정은 Mukund 교수님이 잡아주셨다. 미국 대학의 문화인지는 모르겠으나, USC의 다른 교수님들과도 30분씩의 미팅 일정을 잡아주셨다. 그래서 Mukund 교수님을 포함하여 총 4 분의 교수님을 만나뵐 수 있었고, 현재 우리가 연구하는 내용 및 USC 교수님들이 연구하는 내용에 대해 이야기를 나눠볼 수 있었다.
 

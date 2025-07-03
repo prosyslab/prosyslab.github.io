@@ -9,7 +9,7 @@ tags:
 classes: wide
 ---
 
-| ![](/assets/images/trip/SEC2023/taeeun/everyone.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNxIO9eW1OPLeXequjC4LiBdsxDDQUBOWdSQfl5qMtakeAwJiJFYy6dDoZqCQSkHdJJfo8Eu-4VgU-PzAyTCwLRjZ2OZNpySg33xnhkqrg3PUWwmvxViihAJ_fqABaPcM_dDK2huNRrmIjog8S8TsoH=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>아쉽게도 유일한 단체사진. 왼쪽부터 나, 종찬님, 허기홍 교수님, 연희님, 수진님.</b>|
 
@@ -57,7 +57,7 @@ classes: wide
 
 
 
-| ![](/assets/images/trip/SEC2023/taeeun/mic.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPMdDucRDbQMflApdSEWtMVAnnYL5Vnx6e89oX2heoExTZbZ08ZVHuXyprSVL4ahEPj9dRoW3EPtP8hjJ4kghcROexfOoBkvOj57fAI4cx7MtIUBhbQj3OrnOnJ3Wd8BBLStcDHj29nRP9c0-PesyZR=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>내가 여기서 발표한다고??</b>|
 
@@ -77,7 +77,7 @@ classes: wide
 이렇게 발표는 마무리되었다. 2년간 수고에 대한 충분한 보상이었다.
 
 
-| ![](/assets/images/trip/SEC2023/taeeun/present.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMtq15qWCXWWUh6dcsSRy9_JeTVHIGxCGSFGgtzLun8YrQp_sNiEzS6G6atdRHLu5Bt9vNvnknr5sU26CSkkcwfrjNPSz7VDHURlEeDGORrQS3ChBiOliXaZgioOpWmOWo1sBHe1PweYrOpNi3jSqvXUA=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>발표 중.</b>|
 
@@ -132,7 +132,7 @@ classes: wide
 **Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models<sup>[6](#glaze)</sup>**
 요즘은 인터넷에 그림을 그려 올려 자신을 홍보하고 그런 그림으로 생계를 유지하는 화가들이 많다고 한다. 그런데 이런 사람들의 작품들이 무단으로 인공지능의 학습 데이터로 들어가게 되고, 그렇게 학습된 인공지능 모델은 해당 화가의 화풍을 그대로 따라할 수 있다고 한다. 이런 일들이 실제로 일어나고 있고, 이를 막기 위한 기술이 바로 이 논문에서 제안하는, 그리고 이미 상용화되어 있는 Glaze다. Glaze 간단히 말해 인공지능 모델이 화가의 그림을 왜곡해서 인식하게끔 노이즈를 섞는 것이다. 이 때, 이 노이즈는 사람 눈으로는 구분할 수 없지만 인공지능 모델에게는 그림이 전혀 다른 그림으로 보이게 하는 효과를 준다. 발표 구성이 굉장히 독특했는데 마치 세바시나 TED 발표같았다. 한 명의 실제 화가의 사례를 들면서 그 화가의 어린 시절부터 시작하는 구구절절한 사연을 들려주었다. 기술적인 얘기는 거의 없는 상당히 감성적인 발표였는데, 보안 하는 사람들에게는 잘 먹히지 않은 것 같았다. 첫 질문이 "그래서 정확히 뭘 어떻게 한거죠?"였고 거기에 동의하는지 많은 사람들이 웃었다. 발표 자체는 훌륭했는데 청중이 원하는 발표가 아니었던 것 같다. 발표 잘 하는게 참 어렵다는 생각을 다시 하게 되었다. 그렇지만 논문은 훌륭했는지 최우수논문상을 받았다.
 
-| ![](/assets/images/trip/SEC2023/taeeun/glaze.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMZ8szdDXNOO5Yo0RUF1k0HCzw4qzJDT9MBN4klJSRkCtMRF_haTNmv2v-iMNTcZDB5NhoFoztGtZ8hQC4hFuuzm7YSApOyT28yPwOHrcV8etjK7aX2dSjE132ZGN9Nrsc7yLFR3Rihzzv_NzBZisvH=w1443-h750-s-no-gm?authuser=2) |
 |:--:|
 | <b>Glaze [홈페이지](https://glaze.cs.uchicago.edu/).</b>|
 
@@ -144,7 +144,7 @@ classes: wide
 ### **수염**
 해외 학회에서 강렬한 인상을 주고 싶어 수염을 길렀는데, 돌아와서 사진을 정리하다보니 왠지 성공한 것 같다는 느낌이 든다.
 
-| ![](/assets/images/trip/SEC2023/taeeun/mustache.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczO2w6o4jrJ3uA2XVIP091nNiy08c3qTGnY_G6wP-ROXRPTbVD9i5O5oR_j2ViEjtl9OzpTGJE6eLuhr_fuzCU8D7M9oEyhfHgE5HnigLVTenohs6JSdyKZFmIppXNQM-7lKdiG32K4z0yG6RsumxpxD=w1302-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>강렬한 인상.</b>|
 
@@ -155,21 +155,21 @@ classes: wide
 ### **엘리베이터 할당제**
 학회장의 엘리베이터는 조작이 특이했다. 엘리베이터 내/외부에 버튼이 하나도 없고 모든 엘리베이터를 통틀어 이 조작판 하나만 있다. 원하는 층을 누르면 몇번 엘리베이터를 타야하는 지 알려준다. 알려준 엘리베이터를 타면 원하는 층에서 내려준다.
 
-| ![](/assets/images/trip/SEC2023/taeeun/elevator.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPrcTPrJrrdEBnjU2ApwyyJYr1xJROP_0pmGAkndgxhvJq4ixF9GMTISjF66eVwothorzJ7adIXY2-uDKvmfegFWReLH6c7fpeLXj3uzGlXFaTz7vxwI0q9URDQn3oemI_6a7dr66rUXIWaHJtVMHU3=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>엘리베이터 조작판.</b>|
 
 ### **어마어마한 논문 수**
 이번 USENIX Security 학회는 총 1444편의 제출된 논문 중 422편을 승인했다고 한다. 이걸 3일안에 모두 발표하느라 매일 하루 종일 6개의 세션이 병렬로 진행되었다. 이번에는 학회 일정이 조정되면서 이전보다 승인률(acceptance rate)이 올라갔다고 한다. (정확히 왜 그런지는 기억이 안 난다)
 
-| ![](/assets/images/trip/SEC2023/taeeun/paperCount.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOaCHOuyRv2E3cgBciqStQEuiQ95EuWZNWxox9R6SnBdq0gOOVa_E5d8DhJlf7po57pP6WQ63619kBsJazCbGa-EEWgP7Et8yRq-keoedqTqIcdZ1OCnPp7WWfCTdtDIJdg8rSY1tOwYPbHgGP-FtTi=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>논문 수.</b>|
 
 ### **가족에게 감사**
 개회식에서 사용된 슬라이드 중 모두의 가족에게 감사한다는 슬라이드가 있었다. 학회 위원장 두 분 모두 이번 학회를 준비하는 기간 동안 자녀가 태어났다고 했다. 나도 문득 돌아보니 논문 쓰는 나를 위해 배려해주고 양보해주었던 가족들이 생각났다. 최근 함께 시간을 많이 못 보낸 (한국에 두고 온) 아내에게도 미안하고, 자주 찾아뵙지 못한 부모님과 장인장모님께도 죄송한 마음이 들었다.
 
-| ![](/assets/images/trip/SEC2023/taeeun/family.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczM7vMP2QffZjpm3emWqY7RkoLdZI3btNuxf_2hNKIpnOmPpEMEsUrbHkE_b520azGJ6T0mZTRG0xK7_b-mrGPFjpQLMr1kkDfAcrrlqCko-jP6OQf9t-B5ZatGpzR9H8WfwmmcjTMC6WtK5kty65XKG=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>고마워요 우리 가족.</b>|
 
@@ -177,7 +177,7 @@ classes: wide
 ### **게티 센터(Getty Center)**
 연희님 제안으로 마지막날 LA에 위치한 게티 센터에 방문했다. 미술관처럼 조성된 곳이었는데 볼만했다. 다양한 작품들을 봤는데, 특히 모네의 그림들이 기억에 남는다. 사진기의 등장으로 보이는 것과 똑같이 그리는 의미가 사라지자 모네는 기존에 그림에 담지 못하던 것, 인상을 담기 시작했다. 연구도 비슷하지 않을까? 다른 기술의 발전으로 내가 하던게 의미 없어지는 순간이 올 수 있겠지만, 그럴 때에도 내가 여전히 할 수 있는 일이 있을 것이다. 오히려 그 때 찾은 일이 더 가치 있을지도 모른다. 좋은 깨달음을 얻었다. 하지만 셀카는 고흐 그림과 함께 찍었다. 그게 더 유명하니까.
 
-| ![](/assets/images/trip/SEC2023/taeeun/iris.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPj4gKn7cemA875Edl2nW5ErcGEPSxOFbgZVNUNEmbYu5TisPW3pz_F1kaIQEZHNwtIrDKWpjvj29gxgrE8sshRJMkVqUbh42FRjfMs7-sL6t2YM5N4_MvKta0cp_UvIhKz0Jb5FY0HeeBZnPDV1PJ7=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>제일 인기가 많았던 고흐의 그림, Irises.</b>|
 
@@ -186,7 +186,7 @@ classes: wide
 ### **산타모니카 해변**
 산타모니카 해변에도 갔다. 작년 CCS 학회도 LA에서 했는데, 학회 중에 만난 친구가 자기는 오늘 산타모니카 해변에 놀러갈 거라고 해서 부러웠던 기억이 있다. 그래서 이번에는 나도 갔다. 가보면 굉장히 큰 해변이다. 모래 사장도 바다쪽으로 깊게 뻗어 있고, 해변의 길이도 끝이 안 보일 정도이다. 즐겨보던 미드인 모던 패밀리에 나오는 놀이공원이 있어 반가운 마음이 들었다.
 
-| ![](/assets/images/trip/SEC2023/taeeun/beach.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOvr6DpiXyZOq2dshlKJ8fJE9ynf_ipFVZEetTY0wcjM3O6KTR-HV0-uf5RIbTHAlUxs_4wfnh42ovj8gm3i5KWSVZH_sxrWiR2CamLDy5Az0TtLmYQGbuE3Ai_wvaRYFKY4WSeIFK5YQwzRqJdTbEh=w1157-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>산타모니카 해변에서 연구실 동료들과.</b>|
 
@@ -195,23 +195,23 @@ classes: wide
 ### **미국의 음식**
 이번 학회는 밥을 잘 안 줘서 많이 사먹었다. 주로 근처 멕시코 음식점에서 내 팔뚝만한 부리또를 먹었는데 질릴 때쯤 출장이 끝나서 다행이었다. 그리고 언제부터인지 미국에 가면 첫 식사는 스테이크라는 전통이 생긴 듯 한데, 이번에도 첫 식사는 스테이크를 먹었다. 그 외에도 다양한 음식들의 사진을 공유한다.
 
-| ![](/assets/images/trip/SEC2023/taeeun/steak.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczOq29zAjCDxKFBqWP1Qsi9-RuVLfUvQS95D_crcdQAuJIk6VrJoWQ-JlIv2h8phEdAkJnx3D_JTD3H4L72ZAd6nRu8Awo7yb1x3ylAz9yrEZaW8C4ztUbE69wnG_eRqmC-SAOdBe121UZninz4xdvWl=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>미국 스테이크.</b>|
 
-| ![](/assets/images/trip/SEC2023/taeeun/meta.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczODCkrrWZ9lHtHMCrdol8NTk54q4WUwBOBNgapT8-tFVvGQqIHWGg1r630aCApKyYouBzt4vaFIn_UiZCR4vCJzSM6VCj24bzjL7Q7sNio4yE4RChRmek4vzZ1FDqURN1jD51-1g0Q0yxoejozzm_hv=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>메타에서 준 밥. 맛있었다.</b>|
 
-| ![](/assets/images/trip/SEC2023/taeeun/burrito.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczO1wwvdC2xmw7pIpW1xmOvH0kSL_gQwqrlagPn8QUQxrHTNZEJLkafLdWWeVTuVW3BpGCx9LIU4dBZZqSSbNpiGJylZyXvm1ttax41VNmBPZVITKvTfFN6YfxdxH76PGxLpzvyUwDEqnIgs3eE_AudS=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>3번 먹은 팔뚝만한 부리또.</b>|
 
-| ![](/assets/images/trip/SEC2023/taeeun/inNout.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczPlCn_SqiYCgBEfxXUj6MeB_WKKnkA_hczEtL0XbUnMEnQAKaacRIQo7HAdlgl4sslLOxIBgRIRsb4wtzoQX7dIOcNobPZjX3y1sMonnxoblf3evmkV6LNfhQmMVvJCPFvLlElOarNIIGbL7RpjCF6i=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>싸고 맛 좋은 인앤아웃 버거 + 끈끈한 밀크쉐이크.</b>|
 
-| ![](/assets/images/trip/SEC2023/taeeun/panda.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczMSr2Ovp3lwrhYQ6cAXHOYAA56drR0yce_OYDY789RtyXwg0YDBH-2hEsTea4V8dFACIufRPlvFhhX-f5Ng-bMWlApxd8Ck60RRNX9AOdbKfvH7L1IiXND2iNeUaDXovD5Qh4QL3UJePJVkSdpKO4hT=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>드디어 먹어본 오렌지치킨과 그 친구들.</b>|
 
@@ -221,7 +221,7 @@ classes: wide
 ### **북두칠성**
 돌아오는 비행기에서 창 밖을 내다보았는데 북두칠성이 눈높이에 있어서 깜짝 놀랐다.
 
-| ![](/assets/images/trip/SEC2023/taeeun/stars.JPG) |
+| ![](https://lh3.googleusercontent.com/pw/AP1GczNZ9U2dcviPTSSiY7DPC-nX2Dm0qK_fHmSMNtvEuoc_yf-CSkuV5cqHNkGNRsCEalC-6PAOUTwUqoW-fuYGA_EM6cya2zYJb2pkyCBbOVS1zWxEU7hjgJ2LJF6Yk3x8ZUWWWkinphZll22Oa5AIw9ji=w651-h868-s-no-gm?authuser=2) |
 |:--:|
 | <b>눈앞의 북두칠성.</b>|
 
