@@ -25,6 +25,8 @@ Funded by
 <img src="https://www.nrf.re.kr/resources/img/imgs/header/header-logo.png" alt="NRF" style="height: 30px; vertical-align: baseline">
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/960px-Samsung_Logo.svg.png" alt="Samsung" style="height: 30px;  vertical-align: baseline">
+&nbsp;
+<img src="https://www.iitp.kr/resources/images/en_img_symbol_2024.png" alt="IITP" style="height: 30px; vertical-align: baseline">
 
 ## Compiler Correctness
 We develop a new approach to check the correctness of widely used optimizing compilers (e.g., LLVM and V8).
@@ -40,8 +42,8 @@ Funded by
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" style="height: 30px; vertical-align: baseline">
 
-## Automatic Test Generation
-We develop an intelligent test generation system to automatically generate high-quality unit test cases for real-world software.
+## Automatic Unit Test Generation
+We develop an intelligent system to automatically generate high-quality unit test cases for real-world software.
 This system is based on a combination of static analysis and program synthesis techniques:
 - [UnitCon: Synthesizing Targeted Unit Tests for Java Runtime Exceptions]({{ site.url }}{{ site.baseurl }}/publications/fse25.pdf), FSE 2025
   <a href="https://prosys.kaist.ac.kr/unitcon"><i class="fas fa-home" style="font-size: 18px; vertical-align: baseline"></i></a>
@@ -53,8 +55,10 @@ Funded by
 ## Robust and Reliable AI Systems
 We develop trustworthy AI systems for critical tasks such as automatic code generation and mobile agents.
 Our mission is to ensure the robustness and reliability of AI systems by leveraging program analysis and large language models:
-- [Safeguarding Mobile GUI Agent via Logic-based Action Verification](https://arxiv.org/abs/2503.18492v1), Preprint, 2025
+- [Safeguarding Mobile GUI Agent via Logic-based Action Verification](https://arxiv.org/abs/2503.18492v1), MobiCom 2025
 
 Funded by
 &nbsp;
 <img src="https://www.nrf.re.kr/resources/img/imgs/header/header-logo.png" alt="NRF" style="height: 30px; vertical-align: baseline">
+&nbsp;
+<img src="https://www.iitp.kr/resources/images/en_img_symbol_2024.png" alt="IITP" style="height: 30px; vertical-align: baseline">
