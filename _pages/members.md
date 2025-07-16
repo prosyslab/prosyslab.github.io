@@ -15,7 +15,7 @@ author_profile: false
     </td>
     <td width="75%" style="border-bottom:0px !important;">
       <h3>{{ member.name }} ({{ member.name-korean }})</h3>
-      <i>Assistant Professor</i>
+      <i>{{ member.info }}</i>
       <a href="{{ member.homepage }}"><i class="fas fa-home" style="color:#1B4F72"></i></a>
       <a href="mailto:{{ member.email }}"><i class="fas fa-envelope" style="color:#1B4F72"></i></a>
       <br><br>
