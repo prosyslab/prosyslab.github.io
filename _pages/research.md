@@ -26,7 +26,7 @@ Funded by
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Samsung_wordmark.svg" alt="Samsung" style="height: 15px;  vertical-align: baseline">
 &nbsp;
-<img src="https://www.iitp.kr/resources/images/en_img_symbol_2024.png" alt="IITP" style="height: 30px; vertical-align: baseline">
+<img src="https://www.iitp.kr/images/header/logo.svg" alt="IITP" style="height: 25px; vertical-align: baseline">
 
 ## Compiler Correctness
 We develop a new approach to check the correctness of widely used optimizing compilers (e.g., LLVM and V8).
@@ -61,4 +61,4 @@ Funded by
 &nbsp;
 <img src="https://www.nrf.re.kr/resources/img/imgs/header/header-logo.png" alt="NRF" style="height: 30px; vertical-align: baseline">
 &nbsp;
-<img src="https://www.iitp.kr/resources/images/en_img_symbol_2024.png" alt="IITP" style="height: 30px; vertical-align: baseline">
+<img src="https://www.iitp.kr/images/header/logo.svg" alt="IITP" style="height: 25px; vertical-align: baseline">
