@@ -4,16 +4,31 @@ layout: archive
 
 {{ content }}
 
-{% assign authors = site.data.authors %}
+{% assign list = "" | split: "" %}
+
+{% for a in site.data.authors %}
+  {% assign id = a[0] %}
+  {% assign count = site.posts | where: "author", id | size %}
+
+  {%- capture entry -%}
+  {{ count | prepend: "0000" | slice: -4, 4 }},{{ id }},{{ a[1].name }}
+  {% endcapture %}
+
+  {% assign list = list | push: entry %}
+{% endfor %}
+
+{% assign list = list | sort | reverse %}
 
 <ul class="taxonomy__index">
-{% for author in authors %}
-  {% assign author_id = author[0] %}
+{% for entry in list %}
+  {% assign parts = entry | split: "," %}
+  {% assign author_id = parts[1] %}
+  {% assign author_name = parts[2] %}
   {% assign posts = site.posts | where: "author", author_id %}
   {% if posts.size > 0 %}
     <li>
-      <a href="#{{ author[1].name }}">
-        <b>{{ author[1].name }}</b>
+      <a href="#{{ author_name }}">
+        <b>{{ author_name }}</b>
         <span class="taxonomy__count">{{ posts | size }}</span>
       </a>
     </li>
@@ -22,9 +37,12 @@ layout: archive
 </ul>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% for author in authors %}
-  <section id="{{ author[1].name | slugify | downcase }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ author[1].name }}</h2>
+{% for entry in list %}
+  {% assign parts = entry | split: "," %}
+  {% assign author_id = parts[1] %}
+  {% assign author_name = parts[2] %}
+  <section id="{{ author_name | slugify | downcase }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ author_name }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% assign author_id = author[0] %}
       {% assign posts = site.posts | where: "author", author_id %}
