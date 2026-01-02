@@ -1,0 +1,37 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign authors = site.data.authors %}
+
+<ul class="taxonomy__index">
+{% for author in authors %}
+  {% assign author_id = author[0] %}
+  {% assign posts = site.posts | where: "author", author_id %}
+  {% if posts.size > 0 %}
+    <li>
+      <a href="#{{ author[1].name }}">
+        <b>{{ author[1].name }}</b>
+        <span class="taxonomy__count">{{ posts | size }}</span>
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% for author in authors %}
+  <section id="{{ author[1].name | slugify | downcase }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ author[1].name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% assign author_id = author[0] %}
+      {% assign posts = site.posts | where: "author", author_id %}
+      {% for post in posts %}
+        {% include archive-single-author.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}

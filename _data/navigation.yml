@@ -6,6 +6,12 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Posts"
-    url: /posts/
+    sublinks:
+      - title: "By Year"
+        url: /posts/
+      - title: "By Tags"
+        url: /tags/
+      - title: "By Authors"
+        url: /authors/
   - title: "Gallery"
     url: https://photos.app.goo.gl/5XcPXLxbusHNiQxS9
