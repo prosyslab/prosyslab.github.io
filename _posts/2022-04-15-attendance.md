@@ -5,6 +5,7 @@ kor_author: 허기홍
 author: Kihong Heo
 tags:
   - 수업
+  - 학생들에게
 classes: wide
 ---
 <b> "교수님, 출석은 점수에 얼마나 반영이 되나요?" </b>
