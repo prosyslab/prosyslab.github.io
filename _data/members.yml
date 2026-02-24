@@ -43,6 +43,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/bongjunjang
     email: bongjun.jang@kaist.ac.kr
 
+  - name: Hyunbin Kim
+    name-korean: 김현빈
+    info: Master Student
+    photo: hyunbin.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/hyunbinkim
+    email: hyunbin.kim@kaist.ac.kr
+
 alumni:
   - name: Dongjae Lee
     name-korean: 이동재
