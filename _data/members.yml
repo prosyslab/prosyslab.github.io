@@ -53,26 +53,29 @@ master:
 alumni:
   - name: Dongjae Lee
     name-korean: 이동재
-    info: Master Student
+    info: M.S.
     photo: dongjae.jpg
     homepage: https://prosys.kaist.ac.kr/home/dongjaelee
     email: dongjae.lee00@kaist.ac.kr
     occupation: Ph.D student at KAIST
     award: Outstanding Master's Thesis Award, School of Computing, KAIST
+    year: 2026
 
   - name: Geon Park
     name-korean: 박건
-    info: Master Student
+    info: M.S.
     photo: geon.jpg
     homepage: https://prosys.kaist.ac.kr/home/geonpark
     email: geon.park00@kaist.ac.kr
+    year: 2026
 
   - name: Jaehoon Jang
     name-korean: 장재훈
-    info: Master Student
+    info: M.S.
     photo: jaehoon.jpg
     homepage: https://prosys.kaist.ac.kr/home/jaehoonjang
     email: jaehoon.jang@kaist.ac.kr
+    year: 2026
 
   - name: Changgong Lee
     name-korean: 이창공
