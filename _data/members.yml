@@ -50,6 +50,13 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/hyunbinkim
     email: hyunbin.kim@kaist.ac.kr
 
+  - name: Seunghyeon Jeong
+    name-korean: 정승현
+    info: Master Student
+    photo: seunghyeonjeong.jpeg
+    homepage: https://prosys.kaist.ac.kr/home/seunghyeonjeong
+    email: seunghyeon.jeong@kaist.ac.kr
+
 alumni:
   - name: Dongjae Lee
     name-korean: 이동재
